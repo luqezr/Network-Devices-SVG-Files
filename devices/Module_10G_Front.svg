@@ -1,0 +1,5005 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   width="148.3056mm"
+   height="40.2408mm"
+   viewBox="-549.2800 -149.0400 14830.5611 4024.0799"
+   preserveAspectRatio="xMidYMid"
+   fill-rule="evenodd"
+   stroke-width="28.222"
+   stroke-linejoin="round"
+   xml:space="preserve"
+   id="svg720"
+   sodipodi:docname="in.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ooo="http://xml.openoffice.org/svg/export"><sodipodi:namedview
+   id="namedview720"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   inkscape:document-units="mm" />
+ <defs
+   class="ClipPathGroup"
+   id="defs2">
+  <clipPath
+   id="presentation_clip_path"
+   clipPathUnits="userSpaceOnUse">
+   <rect
+   x="0"
+   y="0"
+   width="21590"
+   height="27940"
+   id="rect1" />
+  </clipPath>
+  <clipPath
+   id="presentation_clip_path_shrink"
+   clipPathUnits="userSpaceOnUse">
+   <rect
+   x="21"
+   y="27"
+   width="21547"
+   height="27885"
+   id="rect2" />
+  </clipPath>
+ </defs>
+ <defs
+   id="defs17">
+  <font
+   id="EmbeddedFont_1"
+   horiz-adv-x="2048"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="512"
+   vert-origin-y="768"
+   vert-adv-y="1024">
+   <font-face
+   font-family="Arial embedded"
+   units-per-em="2048"
+   font-weight="normal"
+   font-style="normal"
+   ascent="1852"
+   descent="423"
+   id="font-face2" />
+   <missing-glyph
+   horiz-adv-x="2048"
+   d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z "
+   id="missing-glyph2" />
+   <glyph
+   unicode="n"
+   horiz-adv-x="867"
+   d="M 825,0 L 825,686 C 825,757 818,813 804,852 790,891 768,920 737,937 706,954 661,963 602,963 515,963 447,933 397,874 347,815 322,732 322,627 L 322,0 142,0 142,851 C 142,977 140,1054 136,1082 L 306,1082 C 307,1079 307,1070 308,1055 309,1040 310,1024 311,1005 312,986 313,950 314,897 L 317,897 C 358,972 406,1025 461,1056 515,1087 582,1102 663,1102 782,1102 869,1073 924,1014 979,955 1006,857 1006,721 L 1006,0 825,0 Z "
+   id="glyph2" />
+   <glyph
+   unicode="k"
+   horiz-adv-x="886"
+   d="M 816,0 L 450,494 318,385 318,0 138,0 138,1484 318,1484 318,557 793,1082 1004,1082 565,617 1027,0 816,0 Z "
+   id="glyph3" />
+   <glyph
+   unicode="i"
+   horiz-adv-x="181"
+   d="M 137,1312 L 137,1484 317,1484 317,1312 137,1312 Z M 137,0 L 137,1082 317,1082 317,0 137,0 Z "
+   id="glyph4" />
+   <glyph
+   unicode="X"
+   horiz-adv-x="1273"
+   d="M 1112,0 L 689,616 257,0 46,0 582,732 87,1409 298,1409 690,856 1071,1409 1282,1409 800,739 1323,0 1112,0 Z "
+   id="glyph5" />
+   <glyph
+   unicode="W"
+   horiz-adv-x="1909"
+   d="M 1511,0 L 1283,0 1039,895 C 1023,951 1000,1051 969,1196 952,1119 937,1054 925,1002 913,950 822,616 652,0 L 424,0 9,1409 208,1409 461,514 C 491,402 519,287 544,168 560,241 579,321 600,408 621,495 713,828 877,1409 L 1060,1409 1305,532 C 1342,389 1372,267 1393,168 L 1402,203 C 1420,280 1435,342 1446,391 1457,439 1551,778 1727,1409 L 1926,1409 1511,0 Z "
+   id="glyph6" />
+   <glyph
+   unicode="U"
+   horiz-adv-x="1159"
+   d="M 731,-20 C 616,-20 515,1 429,43 343,85 276,146 229,226 182,306 158,401 158,512 L 158,1409 349,1409 349,528 C 349,399 382,302 447,235 512,168 607,135 730,135 857,135 955,170 1026,239 1096,308 1131,408 1131,541 L 1131,1409 1321,1409 1321,530 C 1321,416 1297,318 1249,235 1200,152 1132,89 1044,46 955,2 851,-20 731,-20 Z "
+   id="glyph7" />
+   <glyph
+   unicode="T"
+   horiz-adv-x="1154"
+   d="M 720,1253 L 720,0 530,0 530,1253 46,1253 46,1409 1204,1409 1204,1253 720,1253 Z "
+   id="glyph8" />
+   <glyph
+   unicode="S"
+   horiz-adv-x="1175"
+   d="M 1272,389 C 1272,259 1221,158 1120,87 1018,16 875,-20 690,-20 347,-20 148,99 93,338 L 278,375 C 299,290 345,228 414,189 483,149 578,129 697,129 820,129 916,150 983,193 1050,235 1083,297 1083,379 1083,425 1073,462 1052,491 1031,520 1001,543 963,562 925,581 880,596 827,609 774,622 716,635 652,650 541,675 456,699 399,724 341,749 295,776 262,807 229,837 203,872 186,913 168,954 159,1000 159,1053 159,1174 205,1267 298,1332 390,1397 522,1430 694,1430 854,1430 976,1406 1061,1357 1146,1308 1205,1224 1239,1106 L 1051,1073 C 1030,1148 991,1202 933,1236 875,1269 795,1286 692,1286 579,1286 493,1267 434,1230 375,1193 345,1137 345,1063 345,1020 357,984 380,956 403,927 436,903 479,884 522,864 609,840 738,811 781,801 825,791 868,781 911,770 952,758 991,744 1030,729 1067,712 1102,693 1136,674 1166,650 1191,622 1216,594 1236,561 1251,523 1265,485 1272,440 1272,389 Z "
+   id="glyph9" />
+   <glyph
+   unicode="R"
+   horiz-adv-x="1211"
+   d="M 1164,0 L 798,585 359,585 359,0 168,0 168,1409 831,1409 C 990,1409 1112,1374 1199,1303 1285,1232 1328,1133 1328,1006 1328,901 1298,813 1237,742 1176,671 1091,626 984,607 L 1384,0 1164,0 Z M 1136,1004 C 1136,1086 1108,1149 1053,1192 997,1235 917,1256 812,1256 L 359,1256 359,736 820,736 C 921,736 999,760 1054,807 1109,854 1136,919 1136,1004 Z "
+   id="glyph10" />
+   <glyph
+   unicode="P"
+   horiz-adv-x="1086"
+   d="M 1258,985 C 1258,852 1215,746 1128,667 1041,588 922,549 773,549 L 359,549 359,0 168,0 168,1409 761,1409 C 919,1409 1041,1372 1128,1298 1215,1224 1258,1120 1258,985 Z M 1066,983 C 1066,1165 957,1256 738,1256 L 359,1256 359,700 746,700 C 959,700 1066,794 1066,983 Z "
+   id="glyph11" />
+   <glyph
+   unicode="O"
+   horiz-adv-x="1393"
+   d="M 1495,711 C 1495,564 1467,435 1411,324 1354,213 1273,128 1168,69 1063,10 938,-20 795,-20 650,-20 526,9 421,68 316,127 235,212 180,323 125,434 97,563 97,711 97,936 159,1113 282,1240 405,1367 577,1430 797,1430 940,1430 1065,1402 1170,1345 1275,1288 1356,1205 1412,1096 1467,987 1495,859 1495,711 Z M 1300,711 C 1300,886 1256,1024 1169,1124 1081,1224 957,1274 797,1274 636,1274 511,1225 423,1126 335,1027 291,889 291,711 291,534 336,394 425,291 514,187 637,135 795,135 958,135 1083,185 1170,286 1257,386 1300,528 1300,711 Z "
+   id="glyph12" />
+   <glyph
+   unicode="L"
+   horiz-adv-x="900"
+   d="M 168,0 L 168,1409 359,1409 359,156 1071,156 1071,0 168,0 Z "
+   id="glyph13" />
+   <glyph
+   unicode="A"
+   horiz-adv-x="1353"
+   d="M 1167,0 L 1006,412 364,412 202,0 4,0 579,1409 796,1409 1362,0 1167,0 Z M 685,1265 L 676,1237 C 659,1182 635,1111 602,1024 L 422,561 949,561 768,1026 C 749,1072 731,1124 712,1182 L 685,1265 Z "
+   id="glyph14" />
+   <glyph
+   unicode="1"
+   horiz-adv-x="880"
+   d="M 156,0 L 156,153 515,153 515,1237 197,1010 197,1180 530,1409 696,1409 696,153 1039,153 1039,0 156,0 Z "
+   id="glyph15" />
+   <glyph
+   unicode="/"
+   horiz-adv-x="568"
+   d="M 0,-20 L 411,1484 569,1484 162,-20 0,-20 Z "
+   id="glyph16" />
+   <glyph
+   unicode=" "
+   horiz-adv-x="566"
+   id="glyph17" />
+  </font>
+ </defs>
+ <defs
+   class="TextShapeIndex"
+   id="defs18">
+  <g
+   ooo:slide="id1"
+   ooo:id-list="id3"
+   id="g17" />
+ </defs>
+ <defs
+   class="EmbeddedBulletChars"
+   id="defs27">
+  <g
+   id="bullet-char-template-57356"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 580,1141 1163,571 580,0 -4,571 Z"
+   id="path18" />
+  </g>
+  <g
+   id="bullet-char-template-57354"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 8,1128 H 1137 V 0 H 8 Z"
+   id="path19" />
+  </g>
+  <g
+   id="bullet-char-template-10146"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 174,0 602,739 174,1481 1456,739 Z M 1358,739 309,1346 659,739 Z"
+   id="path20" />
+  </g>
+  <g
+   id="bullet-char-template-10132"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 2015,739 1276,0 H 717 l 543,543 H 174 v 393 h 1086 l -543,545 h 557 z"
+   id="path21" />
+  </g>
+  <g
+   id="bullet-char-template-10007"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="m 0,-2 c -7,16 -16,29 -25,39 l 381,530 c -94,256 -141,385 -141,387 0,25 13,38 40,38 9,0 21,-2 34,-5 21,4 42,12 65,25 l 27,-13 111,-251 280,301 64,-25 24,25 c 21,-10 41,-24 62,-43 C 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 c 0,-27 -21,-55 -63,-84 l 16,-20 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 c -22,-34 -53,-51 -92,-51 -42,0 -63,17 -64,51 -7,9 -10,24 -10,44 0,9 1,19 2,30 z"
+   id="path22" />
+  </g>
+  <g
+   id="bullet-char-template-10004"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 c 0,78 14,145 41,201 34,71 87,106 158,106 53,0 88,-31 106,-94 l 23,-176 c 8,-64 28,-97 59,-98 l 735,706 c 11,11 33,17 66,17 42,0 63,-15 63,-46 V 965 c 0,-36 -10,-64 -30,-84 L 442,47 C 390,-6 338,-33 285,-33 Z"
+   id="path23" />
+  </g>
+  <g
+   id="bullet-char-template-9679"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 c 0,181 53,324 160,431 106,107 249,161 430,161 179,0 323,-54 432,-161 108,-107 162,-251 162,-431 0,-180 -54,-324 -162,-431 C 1136,54 992,0 813,0 Z"
+   id="path24" />
+  </g>
+  <g
+   id="bullet-char-template-8226"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="m 346,457 c -73,0 -137,26 -191,78 -54,51 -81,114 -81,188 0,73 27,136 81,188 54,52 118,78 191,78 73,0 134,-26 185,-79 51,-51 77,-114 77,-187 0,-75 -25,-137 -76,-188 -50,-52 -112,-78 -186,-78 z"
+   id="path25" />
+  </g>
+  <g
+   id="bullet-char-template-8211"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M -4,459 H 1135 V 606 H -4 Z"
+   id="path26" />
+  </g>
+  <g
+   id="bullet-char-template-61548"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="m 173,740 c 0,163 58,303 173,419 116,115 255,173 419,173 163,0 302,-58 418,-173 116,-116 174,-256 174,-419 0,-163 -58,-303 -174,-418 C 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z"
+   id="path27" />
+  </g>
+ </defs>
+ <g
+   id="g27"
+   transform="translate(-3929,-12107)">
+  <g
+   id="id2"
+   class="Master_Slide">
+   <g
+   id="bg-id2"
+   class="Background" />
+   <g
+   id="bo-id2"
+   class="BackgroundObjects" />
+  </g>
+ </g>
+ <g
+   class="SlideGroup"
+   id="g720"
+   transform="translate(-3929,-12107)">
+  <g
+   id="g719">
+   <g
+   id="container-id1">
+    <g
+   id="id1"
+   class="Slide"
+   clip-path="url(#presentation_clip_path)">
+     <g
+   class="Page"
+   id="g718">
+      <g
+   class="Graphic"
+   id="g717">
+       <g
+   id="id3">
+        <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="3929"
+   y="12107"
+   width="13732"
+   height="3726"
+   id="rect27" />
+        <defs
+   id="defs28">
+         <clipPath
+   id="clip_path_1"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 3976,15819 v -3665 h 13672 v 3665 z"
+   id="path28" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_1)"
+   id="g28" />
+        <defs
+   id="defs29">
+         <clipPath
+   id="clip_path_2"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 17648,12154 v 3665 H 3976 v -3665 z"
+   id="path29" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_2)"
+   id="g29" />
+        <defs
+   id="defs30">
+         <clipPath
+   id="clip_path_3"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 3976,12154 h 13642 v 3636 H 3976 Z"
+   id="path30" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g30" />
+        <defs
+   id="defs31">
+         <clipPath
+   id="clip_path_4"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 3976,12154 h 13642 v 3636 H 3976 Z"
+   id="path31" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_4)"
+   id="g67">
+         <path
+   fill="#262626"
+   stroke="none"
+   d="m 17599,13855 v -1495 c 0,-51 -43,-93 -96,-93 H 4121 c -53,0 -96,42 -96,93 v 1495 c 0,51 43,93 96,93 h 13382 c 53,0 96,-42 96,-93 z"
+   id="path32" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 17599,13855 v -1495 c 0,-51 -43,-93 -96,-93 H 4121 c -53,0 -96,42 -96,93 v 1495 c 0,51 43,93 96,93 h 13382 c 53,0 96,-42 96,-93 z"
+   id="path33" />
+         <path
+   fill="#595959"
+   stroke="none"
+   d="m 4121,15693 h 13382 c 53,0 96,-42 96,-93 v -1559 c 0,-52 -43,-93 -96,-93 H 4121 c -53,0 -96,41 -96,93 v 1559 c 0,51 43,93 96,93 z"
+   id="path34" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 4121,15693 h 13382 c 53,0 96,-42 96,-93 v -1559 c 0,-52 -43,-93 -96,-93 H 4121 c -53,0 -96,41 -96,93 v 1559 c 0,51 43,93 96,93 z"
+   id="path35" />
+         <path
+   fill="#595959"
+   stroke="none"
+   d="m 4234,14340 h -209 v 1260 c 0,51 43,93 96,93 h 113 z"
+   id="path36" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 4234,14340 h -209 v 1260 c 0,51 43,93 96,93 h 113 z"
+   id="path37" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 4234,14340 v -392 h 95 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -95,-93 h -18 c -53,0 -96,42 -96,93 v 2045 z"
+   id="path38" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 4234,14340 v -392 h 95 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -95,-93 h -18 c -53,0 -96,42 -96,93 v 2045 z"
+   id="path39" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 5357,13948 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -96,93 z"
+   id="path40" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 5357,13948 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -96,93 z"
+   id="path41" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 6385,13948 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -96,93 z"
+   id="path42" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 6385,13948 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -96,93 z"
+   id="path43" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 7413,13948 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -96,93 z"
+   id="path44" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 7413,13948 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -96,93 z"
+   id="path45" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 8441,13948 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -96,93 z"
+   id="path46" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 8441,13948 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -96,93 z"
+   id="path47" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 9469,13948 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -96,93 z"
+   id="path48" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 9469,13948 c -52,0 -95,-42 -95,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -96,93 z"
+   id="path49" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 10498,13948 c -53,0 -96,-42 -96,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path50" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 10498,13948 c -53,0 -96,-42 -96,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path51" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 11526,13948 c -53,0 -96,-42 -96,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path52" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 11526,13948 c -53,0 -96,-42 -96,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -53,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path53" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 12554,13948 c -53,0 -96,-42 -96,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -52,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path54" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 12554,13948 c -53,0 -96,-42 -96,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -52,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path55" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 13582,13948 c -53,0 -96,-42 -96,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -52,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path56" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 13582,13948 c -53,0 -96,-42 -96,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -52,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path57" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 14610,13948 c -53,0 -96,-42 -96,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -52,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path58" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 14610,13948 c -53,0 -96,-42 -96,-93 v -1560 c 0,-51 -42,-93 -95,-93 h -18 c -52,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path59" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 15638,13948 c -53,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -96,-93 h -18 c -52,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path60" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 15638,13948 c -53,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -96,-93 h -18 c -52,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path61" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 16666,13948 c -53,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -96,-93 h -18 c -52,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path62" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 16666,13948 c -53,0 -95,-42 -95,-93 v -1560 c 0,-51 -43,-93 -96,-93 h -18 c -52,0 -95,42 -95,93 v 1560 c 0,51 -43,93 -95,93 z"
+   id="path63" />
+         <path
+   fill="#3f3f3f"
+   stroke="none"
+   d="m 17390,14340 v -392 h -95 c 52,0 95,-42 95,-93 v -1560 c 0,-51 43,-93 95,-93 h 18 c 53,0 96,42 96,93 v 2045 z"
+   id="path64" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 17390,14340 v -392 h -95 c 52,0 95,-42 95,-93 v -1560 c 0,-51 43,-93 95,-93 h 18 c 53,0 96,42 96,93 v 2045 z"
+   id="path65" />
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 6249,15298 h 136 c 24,0 44,-19 44,-43 0,-24 -20,-43 -44,-43 h -136 c -24,0 -44,19 -44,43 0,24 20,43 44,43 z"
+   id="path66" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="8"
+   stroke-linejoin="round"
+   d="m 6249,15298 h 136 c 24,0 44,-19 44,-43 0,-24 -20,-43 -44,-43 h -136 c -24,0 -44,19 -44,43 0,24 20,43 44,43 z"
+   id="path67" />
+        </g>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g69">
+         <text
+   class="SVGTextShape"
+   id="text69"><tspan
+     class="TextParagraph"
+     id="tspan69"><tspan
+       class="TextPosition"
+       x="6232"
+       y="15437"
+       id="tspan68"><tspan
+         font-family="Arial, sans-serif"
+         font-size="136px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#ffffff"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan67">TX</tspan></tspan></tspan></text>
+        </g>
+        <defs
+   id="defs69">
+         <clipPath
+   id="clip_path_5"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 3976,12154 h 13642 v 3636 H 3976 Z"
+   id="path69" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g78">
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 5947,14194 h 1470 v 950 H 5947 Z"
+   id="path70" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 5947,15144 h 1470 v -950 H 5947 Z"
+   id="path71" />
+         <path
+   fill="#262626"
+   stroke="none"
+   d="m 7354,15135 v -826 c 0,-26 -21,-47 -47,-47 H 6062 c -26,0 -47,21 -47,47 v 826 z"
+   id="path72" />
+         <path
+   fill="none"
+   stroke="#8c8c8c"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 7354,15135 v -826 c 0,-26 -21,-47 -47,-47 H 6062 c -26,0 -47,21 -47,47 v 826 z"
+   id="path73" />
+         <path
+   fill="#737373"
+   stroke="none"
+   d="m 6581,14689 v -271 h -278 v 271 z m 485,0 v -271 h -277 v 271 z"
+   id="path74" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="8"
+   stroke-linejoin="round"
+   d="m 6581,14689 v -271 h -278 v 271 z"
+   id="path75" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="8"
+   stroke-linejoin="round"
+   d="m 7066,14689 v -271 h -277 v 271 z"
+   id="path76" />
+         <path
+   fill="#c1c5cb"
+   stroke="none"
+   d="m 6517,15153 h 335 c 44,-3 78,-40 75,-84 0,-2 0,-4 -1,-7 h -483 c 0,44 31,81 74,91 z"
+   id="path77" />
+         <path
+   fill="none"
+   stroke="#737373"
+   stroke-width="25"
+   stroke-linejoin="miter"
+   d="m 6517,15153 h 335 c 44,-3 78,-40 75,-84 0,-2 0,-4 -1,-7 h -483 c 0,44 31,81 74,91 z"
+   id="path78" />
+        </g>
+        <defs
+   id="defs79">
+         <clipPath
+   id="clip_path_6"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6334,14768 h 31 v 297 h -31 z"
+   id="path79" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_6)"
+   id="g92">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6365,14742 v 56 h -31 v -56 z"
+   id="path80" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6365,14745 v 89 h -31 v -89 z"
+   id="path81" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6365,14781 v 90 h -31 v -90 z"
+   id="path82" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6365,14818 v 89 h -31 v -89 z"
+   id="path83" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6365,14854 v 89 h -31 v -89 z"
+   id="path84" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 6365,14890 v 90 h -31 v -90 z"
+   id="path85" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6365,14927 v 90 h -31 v -90 z"
+   id="path86" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6365,14965 v 90 h -31 v -90 z"
+   id="path87" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6365,15002 v 90 h -31 v -90 z"
+   id="path88" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6365,15039 v 90 h -31 v -90 z"
+   id="path89" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6365,15076 v 90 h -31 v -90 z"
+   id="path90" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6365,15113 v 90 h -31 v -90 z"
+   id="path91" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6365,15150 v 90 h -31 v -90 z"
+   id="path92" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g93" />
+        <defs
+   id="defs93">
+         <clipPath
+   id="clip_path_7"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6408,14768 h 31 v 297 h -31 z"
+   id="path93" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_7)"
+   id="g103">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6439,14739 v 56 h -31 v -56 z"
+   id="path94" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6439,14742 v 56 h -31 v -56 z"
+   id="path95" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6439,14745 v 89 h -31 v -89 z"
+   id="path96" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6439,14781 v 90 h -31 v -90 z"
+   id="path97" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6439,14818 v 89 h -31 v -89 z"
+   id="path98" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6439,14854 v 89 h -31 v -89 z"
+   id="path99" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 6439,14890 v 90 h -31 v -90 z"
+   id="path100" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6439,14927 v 90 h -31 v -90 z"
+   id="path101" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6439,14965 v 90 h -31 v -90 z"
+   id="path102" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6439,15002 v 90 h -31 v -90 z"
+   id="path103" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g104" />
+        <defs
+   id="defs104">
+         <clipPath
+   id="clip_path_8"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6557,14768 h 31 v 297 h -31 z"
+   id="path104" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_8)"
+   id="g114">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6588,14739 v 56 h -31 v -56 z"
+   id="path105" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6588,14742 v 56 h -31 v -56 z"
+   id="path106" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6588,14745 v 89 h -31 v -89 z"
+   id="path107" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6588,14781 v 90 h -31 v -90 z"
+   id="path108" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6588,14818 v 89 h -31 v -89 z"
+   id="path109" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6588,14854 v 89 h -31 v -89 z"
+   id="path110" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 6588,14890 v 90 h -31 v -90 z"
+   id="path111" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6588,14927 v 90 h -31 v -90 z"
+   id="path112" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6588,14965 v 90 h -31 v -90 z"
+   id="path113" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6588,15002 v 90 h -31 v -90 z"
+   id="path114" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g115" />
+        <defs
+   id="defs115">
+         <clipPath
+   id="clip_path_9"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6483,14768 h 31 v 297 h -31 z"
+   id="path115" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_9)"
+   id="g125">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6514,14739 v 56 h -31 v -56 z"
+   id="path116" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6514,14742 v 56 h -31 v -56 z"
+   id="path117" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6514,14745 v 89 h -31 v -89 z"
+   id="path118" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6514,14781 v 90 h -31 v -90 z"
+   id="path119" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6514,14818 v 89 h -31 v -89 z"
+   id="path120" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6514,14854 v 89 h -31 v -89 z"
+   id="path121" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 6514,14890 v 90 h -31 v -90 z"
+   id="path122" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6514,14927 v 90 h -31 v -90 z"
+   id="path123" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6514,14965 v 90 h -31 v -90 z"
+   id="path124" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6514,15002 v 90 h -31 v -90 z"
+   id="path125" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g126" />
+        <defs
+   id="defs126">
+         <clipPath
+   id="clip_path_10"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6632,14768 h 31 v 297 h -31 z"
+   id="path126" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_10)"
+   id="g139">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6663,14742 v 56 h -31 v -56 z"
+   id="path127" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6663,14745 v 89 h -31 v -89 z"
+   id="path128" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6663,14781 v 90 h -31 v -90 z"
+   id="path129" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6663,14818 v 89 h -31 v -89 z"
+   id="path130" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6663,14854 v 89 h -31 v -89 z"
+   id="path131" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 6663,14890 v 90 h -31 v -90 z"
+   id="path132" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6663,14927 v 90 h -31 v -90 z"
+   id="path133" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6663,14965 v 90 h -31 v -90 z"
+   id="path134" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6663,15002 v 90 h -31 v -90 z"
+   id="path135" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6663,15039 v 90 h -31 v -90 z"
+   id="path136" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6663,15076 v 90 h -31 v -90 z"
+   id="path137" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6663,15113 v 90 h -31 v -90 z"
+   id="path138" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6663,15150 v 90 h -31 v -90 z"
+   id="path139" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g140" />
+        <defs
+   id="defs140">
+         <clipPath
+   id="clip_path_11"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6706,14768 h 31 v 297 h -31 z"
+   id="path140" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_11)"
+   id="g150">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6737,14739 v 56 h -31 v -56 z"
+   id="path141" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6737,14742 v 56 h -31 v -56 z"
+   id="path142" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6737,14745 v 89 h -31 v -89 z"
+   id="path143" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6737,14781 v 90 h -31 v -90 z"
+   id="path144" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6737,14818 v 89 h -31 v -89 z"
+   id="path145" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6737,14854 v 89 h -31 v -89 z"
+   id="path146" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 6737,14890 v 90 h -31 v -90 z"
+   id="path147" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6737,14927 v 90 h -31 v -90 z"
+   id="path148" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6737,14965 v 90 h -31 v -90 z"
+   id="path149" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6737,15002 v 90 h -31 v -90 z"
+   id="path150" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g151" />
+        <defs
+   id="defs151">
+         <clipPath
+   id="clip_path_12"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6781,14768 h 31 v 297 h -31 z"
+   id="path151" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_12)"
+   id="g161">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6812,14739 v 56 h -31 v -56 z"
+   id="path152" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6812,14742 v 56 h -31 v -56 z"
+   id="path153" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6812,14745 v 89 h -31 v -89 z"
+   id="path154" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6812,14781 v 90 h -31 v -90 z"
+   id="path155" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6812,14818 v 89 h -31 v -89 z"
+   id="path156" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6812,14854 v 89 h -31 v -89 z"
+   id="path157" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 6812,14890 v 90 h -31 v -90 z"
+   id="path158" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6812,14927 v 90 h -31 v -90 z"
+   id="path159" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6812,14965 v 90 h -31 v -90 z"
+   id="path160" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6812,15002 v 90 h -31 v -90 z"
+   id="path161" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g162" />
+        <defs
+   id="defs162">
+         <clipPath
+   id="clip_path_13"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6855,14768 h 31 v 297 h -31 z"
+   id="path162" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_13)"
+   id="g172">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6886,14739 v 56 h -31 v -56 z"
+   id="path163" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6886,14742 v 56 h -31 v -56 z"
+   id="path164" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6886,14745 v 89 h -31 v -89 z"
+   id="path165" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6886,14781 v 90 h -31 v -90 z"
+   id="path166" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6886,14818 v 89 h -31 v -89 z"
+   id="path167" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6886,14854 v 89 h -31 v -89 z"
+   id="path168" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 6886,14890 v 90 h -31 v -90 z"
+   id="path169" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6886,14927 v 90 h -31 v -90 z"
+   id="path170" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6886,14965 v 90 h -31 v -90 z"
+   id="path171" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6886,15002 v 90 h -31 v -90 z"
+   id="path172" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g173" />
+        <defs
+   id="defs173">
+         <clipPath
+   id="clip_path_14"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6930,14768 h 31 v 297 h -31 z"
+   id="path173" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_14)"
+   id="g183">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6961,14739 v 56 h -31 v -56 z"
+   id="path174" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6961,14742 v 56 h -31 v -56 z"
+   id="path175" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 6961,14745 v 89 h -31 v -89 z"
+   id="path176" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6961,14781 v 90 h -31 v -90 z"
+   id="path177" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6961,14818 v 89 h -31 v -89 z"
+   id="path178" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6961,14854 v 89 h -31 v -89 z"
+   id="path179" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 6961,14890 v 90 h -31 v -90 z"
+   id="path180" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 6961,14927 v 90 h -31 v -90 z"
+   id="path181" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 6961,14965 v 90 h -31 v -90 z"
+   id="path182" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 6961,15002 v 90 h -31 v -90 z"
+   id="path183" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g184" />
+        <defs
+   id="defs184">
+         <clipPath
+   id="clip_path_15"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 7004,14768 h 31 v 297 h -31 z"
+   id="path184" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_15)"
+   id="g197">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 7035,14742 v 56 h -31 v -56 z"
+   id="path185" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 7035,14745 v 89 h -31 v -89 z"
+   id="path186" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 7035,14781 v 90 h -31 v -90 z"
+   id="path187" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 7035,14818 v 89 h -31 v -89 z"
+   id="path188" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 7035,14854 v 89 h -31 v -89 z"
+   id="path189" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 7035,14890 v 90 h -31 v -90 z"
+   id="path190" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 7035,14927 v 90 h -31 v -90 z"
+   id="path191" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 7035,14965 v 90 h -31 v -90 z"
+   id="path192" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 7035,15002 v 90 h -31 v -90 z"
+   id="path193" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 7035,15039 v 90 h -31 v -90 z"
+   id="path194" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 7035,15076 v 90 h -31 v -90 z"
+   id="path195" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 7035,15113 v 90 h -31 v -90 z"
+   id="path196" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 7035,15150 v 90 h -31 v -90 z"
+   id="path197" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g200">
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 6268,14753 h 833 v 327 h -833 z"
+   id="path198" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 6238,14753 h 893 v 327 h -893 z"
+   id="path199" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6268,14862 h 833 v 109 h -833 z"
+   id="path200" />
+        </g>
+        <defs
+   id="defs201">
+         <clipPath
+   id="clip_path_16"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6334,14758 h 31 v 99 h -31 z"
+   id="path201" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_16)"
+   id="g205">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6365,14732 v 54 h -31 v -54 z"
+   id="path202" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6365,14733 v 101 h -31 v -101 z"
+   id="path203" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6365,14781 v 103 h -31 v -103 z"
+   id="path204" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6365,14831 v 102 h -31 v -102 z"
+   id="path205" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g206" />
+        <defs
+   id="defs206">
+         <clipPath
+   id="clip_path_17"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6408,14758 h 31 v 99 h -31 z"
+   id="path206" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_17)"
+   id="g210">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6439,14731 v 54 h -31 v -54 z"
+   id="path207" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6439,14732 v 54 h -31 v -54 z"
+   id="path208" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6439,14733 v 101 h -31 v -101 z"
+   id="path209" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6439,14781 v 103 h -31 v -103 z"
+   id="path210" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g211" />
+        <defs
+   id="defs211">
+         <clipPath
+   id="clip_path_18"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6557,14758 h 31 v 99 h -31 z"
+   id="path211" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_18)"
+   id="g215">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6588,14732 v 54 h -31 v -54 z"
+   id="path212" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6588,14733 v 101 h -31 v -101 z"
+   id="path213" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6588,14781 v 103 h -31 v -103 z"
+   id="path214" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6588,14831 v 102 h -31 v -102 z"
+   id="path215" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g216" />
+        <defs
+   id="defs216">
+         <clipPath
+   id="clip_path_19"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6483,14758 h 31 v 99 h -31 z"
+   id="path216" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_19)"
+   id="g220">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6514,14731 v 54 h -31 v -54 z"
+   id="path217" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6514,14732 v 54 h -31 v -54 z"
+   id="path218" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6514,14733 v 101 h -31 v -101 z"
+   id="path219" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6514,14781 v 103 h -31 v -103 z"
+   id="path220" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g221" />
+        <defs
+   id="defs221">
+         <clipPath
+   id="clip_path_20"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6632,14758 h 31 v 99 h -31 z"
+   id="path221" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_20)"
+   id="g225">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6663,14732 v 54 h -31 v -54 z"
+   id="path222" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6663,14733 v 101 h -31 v -101 z"
+   id="path223" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6663,14781 v 103 h -31 v -103 z"
+   id="path224" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6663,14831 v 102 h -31 v -102 z"
+   id="path225" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g226" />
+        <defs
+   id="defs226">
+         <clipPath
+   id="clip_path_21"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6706,14758 h 31 v 99 h -31 z"
+   id="path226" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_21)"
+   id="g230">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6737,14731 v 54 h -31 v -54 z"
+   id="path227" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6737,14732 v 54 h -31 v -54 z"
+   id="path228" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6737,14733 v 101 h -31 v -101 z"
+   id="path229" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6737,14781 v 103 h -31 v -103 z"
+   id="path230" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g231" />
+        <defs
+   id="defs231">
+         <clipPath
+   id="clip_path_22"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6781,14758 h 31 v 99 h -31 z"
+   id="path231" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_22)"
+   id="g235">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6812,14731 v 54 h -31 v -54 z"
+   id="path232" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6812,14732 v 54 h -31 v -54 z"
+   id="path233" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6812,14733 v 101 h -31 v -101 z"
+   id="path234" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6812,14781 v 103 h -31 v -103 z"
+   id="path235" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g236" />
+        <defs
+   id="defs236">
+         <clipPath
+   id="clip_path_23"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6855,14758 h 31 v 99 h -31 z"
+   id="path236" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_23)"
+   id="g240">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6886,14731 v 54 h -31 v -54 z"
+   id="path237" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6886,14732 v 54 h -31 v -54 z"
+   id="path238" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6886,14733 v 101 h -31 v -101 z"
+   id="path239" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6886,14781 v 103 h -31 v -103 z"
+   id="path240" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g241" />
+        <defs
+   id="defs241">
+         <clipPath
+   id="clip_path_24"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6930,14758 h 31 v 99 h -31 z"
+   id="path241" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_24)"
+   id="g245">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6961,14731 v 54 h -31 v -54 z"
+   id="path242" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6961,14732 v 54 h -31 v -54 z"
+   id="path243" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6961,14733 v 101 h -31 v -101 z"
+   id="path244" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6961,14781 v 103 h -31 v -103 z"
+   id="path245" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g246" />
+        <defs
+   id="defs246">
+         <clipPath
+   id="clip_path_25"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 7004,14758 h 31 v 99 h -31 z"
+   id="path246" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_25)"
+   id="g250">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 7035,14732 v 54 h -31 v -54 z"
+   id="path247" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 7035,14733 v 101 h -31 v -101 z"
+   id="path248" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 7035,14781 v 103 h -31 v -103 z"
+   id="path249" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 7035,14831 v 102 h -31 v -102 z"
+   id="path250" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g251" />
+        <defs
+   id="defs251">
+         <clipPath
+   id="clip_path_26"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6334,14867 h 31 v 99 h -31 z"
+   id="path251" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_26)"
+   id="g255">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6365,14841 v 54 h -31 v -54 z"
+   id="path252" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6365,14842 v 101 h -31 v -101 z"
+   id="path253" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 6365,14890 v 103 h -31 v -103 z"
+   id="path254" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6365,14940 v 102 h -31 v -102 z"
+   id="path255" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g256" />
+        <defs
+   id="defs256">
+         <clipPath
+   id="clip_path_27"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6408,14867 h 31 v 99 h -31 z"
+   id="path256" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_27)"
+   id="g260">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6439,14840 v 54 h -31 v -54 z"
+   id="path257" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6439,14841 v 54 h -31 v -54 z"
+   id="path258" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6439,14842 v 101 h -31 v -101 z"
+   id="path259" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 6439,14890 v 103 h -31 v -103 z"
+   id="path260" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g261" />
+        <defs
+   id="defs261">
+         <clipPath
+   id="clip_path_28"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6557,14867 h 31 v 99 h -31 z"
+   id="path261" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_28)"
+   id="g265">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6588,14841 v 54 h -31 v -54 z"
+   id="path262" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6588,14842 v 101 h -31 v -101 z"
+   id="path263" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 6588,14890 v 103 h -31 v -103 z"
+   id="path264" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6588,14940 v 102 h -31 v -102 z"
+   id="path265" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g266" />
+        <defs
+   id="defs266">
+         <clipPath
+   id="clip_path_29"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6483,14867 h 31 v 99 h -31 z"
+   id="path266" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_29)"
+   id="g270">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6514,14840 v 54 h -31 v -54 z"
+   id="path267" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6514,14841 v 54 h -31 v -54 z"
+   id="path268" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6514,14842 v 101 h -31 v -101 z"
+   id="path269" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 6514,14890 v 103 h -31 v -103 z"
+   id="path270" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g271" />
+        <defs
+   id="defs271">
+         <clipPath
+   id="clip_path_30"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6632,14867 h 31 v 99 h -31 z"
+   id="path271" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_30)"
+   id="g275">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6663,14841 v 54 h -31 v -54 z"
+   id="path272" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6663,14842 v 101 h -31 v -101 z"
+   id="path273" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 6663,14890 v 103 h -31 v -103 z"
+   id="path274" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6663,14940 v 102 h -31 v -102 z"
+   id="path275" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g276" />
+        <defs
+   id="defs276">
+         <clipPath
+   id="clip_path_31"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6706,14867 h 31 v 99 h -31 z"
+   id="path276" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_31)"
+   id="g280">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6737,14840 v 54 h -31 v -54 z"
+   id="path277" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6737,14841 v 54 h -31 v -54 z"
+   id="path278" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6737,14842 v 101 h -31 v -101 z"
+   id="path279" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 6737,14890 v 103 h -31 v -103 z"
+   id="path280" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g281" />
+        <defs
+   id="defs281">
+         <clipPath
+   id="clip_path_32"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6781,14867 h 31 v 99 h -31 z"
+   id="path281" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_32)"
+   id="g285">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6812,14840 v 54 h -31 v -54 z"
+   id="path282" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6812,14841 v 54 h -31 v -54 z"
+   id="path283" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6812,14842 v 101 h -31 v -101 z"
+   id="path284" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 6812,14890 v 103 h -31 v -103 z"
+   id="path285" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g286" />
+        <defs
+   id="defs286">
+         <clipPath
+   id="clip_path_33"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6855,14867 h 31 v 99 h -31 z"
+   id="path286" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_33)"
+   id="g290">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6886,14840 v 54 h -31 v -54 z"
+   id="path287" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6886,14841 v 54 h -31 v -54 z"
+   id="path288" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6886,14842 v 101 h -31 v -101 z"
+   id="path289" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 6886,14890 v 103 h -31 v -103 z"
+   id="path290" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g291" />
+        <defs
+   id="defs291">
+         <clipPath
+   id="clip_path_34"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6930,14867 h 31 v 99 h -31 z"
+   id="path291" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_34)"
+   id="g295">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6961,14840 v 54 h -31 v -54 z"
+   id="path292" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6961,14841 v 54 h -31 v -54 z"
+   id="path293" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 6961,14842 v 101 h -31 v -101 z"
+   id="path294" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 6961,14890 v 103 h -31 v -103 z"
+   id="path295" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g296" />
+        <defs
+   id="defs296">
+         <clipPath
+   id="clip_path_35"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 7004,14867 h 31 v 99 h -31 z"
+   id="path296" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_35)"
+   id="g300">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 7035,14841 v 54 h -31 v -54 z"
+   id="path297" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 7035,14842 v 101 h -31 v -101 z"
+   id="path298" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 7035,14890 v 103 h -31 v -103 z"
+   id="path299" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 7035,14940 v 102 h -31 v -102 z"
+   id="path300" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g301" />
+        <defs
+   id="defs301">
+         <clipPath
+   id="clip_path_36"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6334,14976 h 31 v 99 h -31 z"
+   id="path301" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_36)"
+   id="g305">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6365,14950 v 54 h -31 v -54 z"
+   id="path302" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6365,14951 v 101 h -31 v -101 z"
+   id="path303" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6365,14999 v 103 h -31 v -103 z"
+   id="path304" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6365,15049 v 102 h -31 v -102 z"
+   id="path305" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g306" />
+        <defs
+   id="defs306">
+         <clipPath
+   id="clip_path_37"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6408,14976 h 31 v 99 h -31 z"
+   id="path306" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_37)"
+   id="g310">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6439,14950 v 54 h -31 v -54 z"
+   id="path307" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6439,14951 v 101 h -31 v -101 z"
+   id="path308" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6439,14999 v 103 h -31 v -103 z"
+   id="path309" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6439,15049 v 102 h -31 v -102 z"
+   id="path310" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g311" />
+        <defs
+   id="defs311">
+         <clipPath
+   id="clip_path_38"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6557,14976 h 31 v 99 h -31 z"
+   id="path311" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_38)"
+   id="g315">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6588,14950 v 54 h -31 v -54 z"
+   id="path312" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6588,14951 v 101 h -31 v -101 z"
+   id="path313" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6588,14999 v 103 h -31 v -103 z"
+   id="path314" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6588,15049 v 102 h -31 v -102 z"
+   id="path315" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g316" />
+        <defs
+   id="defs316">
+         <clipPath
+   id="clip_path_39"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6483,14976 h 31 v 99 h -31 z"
+   id="path316" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_39)"
+   id="g320">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6514,14950 v 54 h -31 v -54 z"
+   id="path317" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6514,14951 v 101 h -31 v -101 z"
+   id="path318" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6514,14999 v 103 h -31 v -103 z"
+   id="path319" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6514,15049 v 102 h -31 v -102 z"
+   id="path320" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g321" />
+        <defs
+   id="defs321">
+         <clipPath
+   id="clip_path_40"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6632,14976 h 31 v 99 h -31 z"
+   id="path321" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_40)"
+   id="g325">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6663,14950 v 54 h -31 v -54 z"
+   id="path322" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6663,14951 v 101 h -31 v -101 z"
+   id="path323" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6663,14999 v 103 h -31 v -103 z"
+   id="path324" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6663,15049 v 102 h -31 v -102 z"
+   id="path325" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g326" />
+        <defs
+   id="defs326">
+         <clipPath
+   id="clip_path_41"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6706,14976 h 31 v 99 h -31 z"
+   id="path326" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_41)"
+   id="g329">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6737,14950 v 54 h -31 v -54 z"
+   id="path327" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6737,14951 v 101 h -31 v -101 z"
+   id="path328" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6737,14999 v 103 h -31 v -103 z"
+   id="path329" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g330" />
+        <defs
+   id="defs330">
+         <clipPath
+   id="clip_path_42"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6781,14976 h 31 v 99 h -31 z"
+   id="path330" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_42)"
+   id="g334">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6812,14949 v 54 h -31 v -54 z"
+   id="path331" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6812,14950 v 54 h -31 v -54 z"
+   id="path332" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6812,14951 v 101 h -31 v -101 z"
+   id="path333" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6812,14999 v 103 h -31 v -103 z"
+   id="path334" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g335" />
+        <defs
+   id="defs335">
+         <clipPath
+   id="clip_path_43"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6855,14976 h 31 v 99 h -31 z"
+   id="path335" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_43)"
+   id="g339">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6886,14950 v 54 h -31 v -54 z"
+   id="path336" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6886,14951 v 101 h -31 v -101 z"
+   id="path337" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6886,14999 v 103 h -31 v -103 z"
+   id="path338" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6886,15049 v 102 h -31 v -102 z"
+   id="path339" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g340" />
+        <defs
+   id="defs340">
+         <clipPath
+   id="clip_path_44"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 6930,14976 h 31 v 99 h -31 z"
+   id="path340" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_44)"
+   id="g344">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6961,14950 v 54 h -31 v -54 z"
+   id="path341" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6961,14951 v 101 h -31 v -101 z"
+   id="path342" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 6961,14999 v 103 h -31 v -103 z"
+   id="path343" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 6961,15049 v 102 h -31 v -102 z"
+   id="path344" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g345" />
+        <defs
+   id="defs345">
+         <clipPath
+   id="clip_path_45"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 7004,14976 h 31 v 99 h -31 z"
+   id="path345" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_45)"
+   id="g349">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 7035,14950 v 54 h -31 v -54 z"
+   id="path346" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 7035,14951 v 101 h -31 v -101 z"
+   id="path347" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 7035,14999 v 103 h -31 v -103 z"
+   id="path348" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 7035,15049 v 102 h -31 v -102 z"
+   id="path349" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g351">
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 6956,15298 h 136 c 24,0 44,-19 44,-43 0,-24 -20,-43 -44,-43 h -136 c -24,0 -44,19 -44,43 0,24 20,43 44,43 z"
+   id="path350" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="8"
+   stroke-linejoin="round"
+   d="m 6956,15298 h 136 c 24,0 44,-19 44,-43 0,-24 -20,-43 -44,-43 h -136 c -24,0 -44,19 -44,43 0,24 20,43 44,43 z"
+   id="path351" />
+        </g>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g353">
+         <text
+   class="SVGTextShape"
+   id="text353"><tspan
+     class="TextParagraph"
+     id="tspan353"><tspan
+       class="TextPosition"
+       x="6792"
+       y="15437"
+       id="tspan352"><tspan
+         font-family="Arial, sans-serif"
+         font-size="136px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#ffffff"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan351">Link/RX</tspan></tspan></tspan></text>
+        </g>
+        <defs
+   id="defs353">
+         <clipPath
+   id="clip_path_46"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 3976,12154 h 13642 v 3636 H 3976 Z"
+   id="path353" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_46)"
+   id="g357">
+         <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 5761,15404 v 169 l 1842,3 -2,-172"
+   id="path354" />
+         <path
+   fill="#ffffff"
+   stroke="none"
+   d="m 5749,15406 h 24 v -12 l -1,-4 -2,-4 -4,-3 -5,-1 -4,1 -4,3 -3,4 -1,4 z"
+   id="path355" />
+         <path
+   fill="#ffffff"
+   stroke="none"
+   d="m 7589,15406 h 24 v -12 l -1,-5 -3,-3 -4,-3 -4,-1 -5,1 -3,3 -3,4 -1,4 z"
+   id="path356" />
+         <path
+   fill="#595959"
+   stroke="none"
+   d="m 6324,15452 h 716 v 233 h -716 z"
+   id="path357" />
+        </g>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g359">
+         <text
+   class="SVGTextShape"
+   id="text359"><tspan
+     class="TextParagraph"
+     id="tspan359"><tspan
+       class="TextPosition"
+       x="6323"
+       y="15626"
+       id="tspan358"><tspan
+         font-family="Arial, sans-serif"
+         font-size="194px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#ffffff"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan357">PORT 1</tspan></tspan></tspan></text>
+        </g>
+        <defs
+   id="defs359">
+         <clipPath
+   id="clip_path_47"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 3976,12154 h 13642 v 3636 H 3976 Z"
+   id="path359" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_47)"
+   id="g361">
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 11096,15302 h 146 c 26,0 48,-21 48,-47 0,-25 -22,-46 -48,-46 h -146 c -27,0 -48,21 -48,46 0,26 21,47 48,47 z"
+   id="path360" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="8"
+   stroke-linejoin="round"
+   d="m 11096,15302 h 146 c 26,0 48,-21 48,-47 0,-25 -22,-46 -48,-46 h -146 c -27,0 -48,21 -48,46 0,26 21,47 48,47 z"
+   id="path361" />
+        </g>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g363">
+         <text
+   class="SVGTextShape"
+   id="text363"><tspan
+     class="TextParagraph"
+     id="tspan363"><tspan
+       class="TextPosition"
+       x="10852"
+       y="15478"
+       id="tspan362"><tspan
+         font-family="Arial, sans-serif"
+         font-size="156px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#ffffff"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan361">STATUS</tspan></tspan></tspan></text>
+        </g>
+        <defs
+   id="defs363">
+         <clipPath
+   id="clip_path_48"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 3976,12154 h 13642 v 3636 H 3976 Z"
+   id="path363" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_48)"
+   id="g365">
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 10382,15302 h 146 c 27,0 48,-21 48,-47 0,-25 -21,-46 -48,-46 h -146 c -26,0 -48,21 -48,46 0,26 22,47 48,47 z"
+   id="path364" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="8"
+   stroke-linejoin="round"
+   d="m 10382,15302 h 146 c 27,0 48,-21 48,-47 0,-25 -21,-46 -48,-46 h -146 c -26,0 -48,21 -48,46 0,26 22,47 48,47 z"
+   id="path365" />
+        </g>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g367">
+         <text
+   class="SVGTextShape"
+   id="text367"><tspan
+     class="TextParagraph"
+     id="tspan367"><tspan
+       class="TextPosition"
+       x="10271"
+       y="15478"
+       id="tspan366"><tspan
+         font-family="Arial, sans-serif"
+         font-size="156px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#ffffff"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan365">PWR</tspan></tspan></tspan></text>
+        </g>
+        <defs
+   id="defs367">
+         <clipPath
+   id="clip_path_49"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 3976,12154 h 13642 v 3636 H 3976 Z"
+   id="path367" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_49)"
+   id="g369">
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 14556,15298 h 135 c 24,0 44,-19 44,-43 0,-24 -20,-43 -44,-43 h -135 c -24,0 -44,19 -44,43 0,24 20,43 44,43 z"
+   id="path368" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="8"
+   stroke-linejoin="round"
+   d="m 14556,15298 h 135 c 24,0 44,-19 44,-43 0,-24 -20,-43 -44,-43 h -135 c -24,0 -44,19 -44,43 0,24 20,43 44,43 z"
+   id="path369" />
+        </g>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g371">
+         <text
+   class="SVGTextShape"
+   id="text371"><tspan
+     class="TextParagraph"
+     id="tspan371"><tspan
+       class="TextPosition"
+       x="14539"
+       y="15437"
+       id="tspan370"><tspan
+         font-family="Arial, sans-serif"
+         font-size="136px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#ffffff"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan369">TX</tspan></tspan></tspan></text>
+        </g>
+        <defs
+   id="defs371">
+         <clipPath
+   id="clip_path_50"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 3976,12154 h 13642 v 3636 H 3976 Z"
+   id="path371" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g380">
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 14254,14194 h 1469 v 950 h -1469 z"
+   id="path372" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 14254,15144 h 1469 v -950 h -1469 z"
+   id="path373" />
+         <path
+   fill="#262626"
+   stroke="none"
+   d="m 15661,15135 v -826 c 0,-26 -22,-47 -48,-47 h -1244 c -26,0 -48,21 -48,47 v 826 z"
+   id="path374" />
+         <path
+   fill="none"
+   stroke="#8c8c8c"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 15661,15135 v -826 c 0,-26 -22,-47 -48,-47 h -1244 c -26,0 -48,21 -48,47 v 826 z"
+   id="path375" />
+         <path
+   fill="#737373"
+   stroke="none"
+   d="m 14887,14689 v -271 h -277 v 271 z m 485,0 v -271 h -277 v 271 z"
+   id="path376" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="8"
+   stroke-linejoin="round"
+   d="m 14887,14689 v -271 h -277 v 271 z"
+   id="path377" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="8"
+   stroke-linejoin="round"
+   d="m 15372,14689 v -271 h -277 v 271 z"
+   id="path378" />
+         <path
+   fill="#c1c5cb"
+   stroke="none"
+   d="m 14824,15153 h 334 c 45,-3 79,-40 76,-84 -1,-2 -1,-4 -1,-7 h -484 c 1,44 31,81 75,91 z"
+   id="path379" />
+         <path
+   fill="none"
+   stroke="#737373"
+   stroke-width="25"
+   stroke-linejoin="miter"
+   d="m 14824,15153 h 334 c 45,-3 79,-40 76,-84 -1,-2 -1,-4 -1,-7 h -484 c 1,44 31,81 75,91 z"
+   id="path380" />
+        </g>
+        <defs
+   id="defs381">
+         <clipPath
+   id="clip_path_51"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14640,14768 h 31 v 297 h -31 z"
+   id="path381" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_51)"
+   id="g394">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14671,14742 v 56 h -31 v -56 z"
+   id="path382" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14671,14745 v 89 h -31 v -89 z"
+   id="path383" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14671,14781 v 90 h -31 v -90 z"
+   id="path384" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14671,14818 v 89 h -31 v -89 z"
+   id="path385" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14671,14854 v 89 h -31 v -89 z"
+   id="path386" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 14671,14890 v 90 h -31 v -90 z"
+   id="path387" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14671,14927 v 90 h -31 v -90 z"
+   id="path388" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14671,14965 v 90 h -31 v -90 z"
+   id="path389" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14671,15002 v 90 h -31 v -90 z"
+   id="path390" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14671,15039 v 90 h -31 v -90 z"
+   id="path391" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14671,15076 v 90 h -31 v -90 z"
+   id="path392" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14671,15113 v 90 h -31 v -90 z"
+   id="path393" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14671,15150 v 90 h -31 v -90 z"
+   id="path394" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g395" />
+        <defs
+   id="defs395">
+         <clipPath
+   id="clip_path_52"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14715,14768 h 31 v 297 h -31 z"
+   id="path395" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_52)"
+   id="g408">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14746,14742 v 56 h -31 v -56 z"
+   id="path396" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14746,14745 v 89 h -31 v -89 z"
+   id="path397" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14746,14781 v 90 h -31 v -90 z"
+   id="path398" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14746,14818 v 89 h -31 v -89 z"
+   id="path399" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14746,14854 v 89 h -31 v -89 z"
+   id="path400" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 14746,14890 v 90 h -31 v -90 z"
+   id="path401" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14746,14927 v 90 h -31 v -90 z"
+   id="path402" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14746,14965 v 90 h -31 v -90 z"
+   id="path403" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14746,15002 v 90 h -31 v -90 z"
+   id="path404" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14746,15039 v 90 h -31 v -90 z"
+   id="path405" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14746,15076 v 90 h -31 v -90 z"
+   id="path406" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14746,15113 v 90 h -31 v -90 z"
+   id="path407" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14746,15150 v 90 h -31 v -90 z"
+   id="path408" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g409" />
+        <defs
+   id="defs409">
+         <clipPath
+   id="clip_path_53"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14864,14768 h 31 v 297 h -31 z"
+   id="path409" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_53)"
+   id="g422">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14895,14742 v 56 h -31 v -56 z"
+   id="path410" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14895,14745 v 89 h -31 v -89 z"
+   id="path411" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14895,14781 v 90 h -31 v -90 z"
+   id="path412" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14895,14818 v 89 h -31 v -89 z"
+   id="path413" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14895,14854 v 89 h -31 v -89 z"
+   id="path414" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 14895,14890 v 90 h -31 v -90 z"
+   id="path415" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14895,14927 v 90 h -31 v -90 z"
+   id="path416" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14895,14965 v 90 h -31 v -90 z"
+   id="path417" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14895,15002 v 90 h -31 v -90 z"
+   id="path418" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14895,15039 v 90 h -31 v -90 z"
+   id="path419" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14895,15076 v 90 h -31 v -90 z"
+   id="path420" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14895,15113 v 90 h -31 v -90 z"
+   id="path421" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14895,15150 v 90 h -31 v -90 z"
+   id="path422" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g423" />
+        <defs
+   id="defs423">
+         <clipPath
+   id="clip_path_54"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14789,14768 h 31 v 297 h -31 z"
+   id="path423" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_54)"
+   id="g436">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14820,14742 v 56 h -31 v -56 z"
+   id="path424" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14820,14745 v 89 h -31 v -89 z"
+   id="path425" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14820,14781 v 90 h -31 v -90 z"
+   id="path426" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14820,14818 v 89 h -31 v -89 z"
+   id="path427" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14820,14854 v 89 h -31 v -89 z"
+   id="path428" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 14820,14890 v 90 h -31 v -90 z"
+   id="path429" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14820,14927 v 90 h -31 v -90 z"
+   id="path430" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14820,14965 v 90 h -31 v -90 z"
+   id="path431" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14820,15002 v 90 h -31 v -90 z"
+   id="path432" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14820,15039 v 90 h -31 v -90 z"
+   id="path433" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14820,15076 v 90 h -31 v -90 z"
+   id="path434" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14820,15113 v 90 h -31 v -90 z"
+   id="path435" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14820,15150 v 90 h -31 v -90 z"
+   id="path436" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g437" />
+        <defs
+   id="defs437">
+         <clipPath
+   id="clip_path_55"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14938,14768 h 31 v 297 h -31 z"
+   id="path437" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_55)"
+   id="g450">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14969,14742 v 56 h -31 v -56 z"
+   id="path438" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14969,14745 v 89 h -31 v -89 z"
+   id="path439" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14969,14781 v 90 h -31 v -90 z"
+   id="path440" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14969,14818 v 89 h -31 v -89 z"
+   id="path441" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14969,14854 v 89 h -31 v -89 z"
+   id="path442" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 14969,14890 v 90 h -31 v -90 z"
+   id="path443" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14969,14927 v 90 h -31 v -90 z"
+   id="path444" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14969,14965 v 90 h -31 v -90 z"
+   id="path445" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14969,15002 v 90 h -31 v -90 z"
+   id="path446" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 14969,15039 v 90 h -31 v -90 z"
+   id="path447" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 14969,15076 v 90 h -31 v -90 z"
+   id="path448" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 14969,15113 v 90 h -31 v -90 z"
+   id="path449" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 14969,15150 v 90 h -31 v -90 z"
+   id="path450" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g451" />
+        <defs
+   id="defs451">
+         <clipPath
+   id="clip_path_56"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15013,14768 h 31 v 297 h -31 z"
+   id="path451" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_56)"
+   id="g464">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15044,14742 v 56 h -31 v -56 z"
+   id="path452" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15044,14745 v 89 h -31 v -89 z"
+   id="path453" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15044,14781 v 90 h -31 v -90 z"
+   id="path454" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15044,14818 v 89 h -31 v -89 z"
+   id="path455" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15044,14854 v 89 h -31 v -89 z"
+   id="path456" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 15044,14890 v 90 h -31 v -90 z"
+   id="path457" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15044,14927 v 90 h -31 v -90 z"
+   id="path458" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15044,14965 v 90 h -31 v -90 z"
+   id="path459" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15044,15002 v 90 h -31 v -90 z"
+   id="path460" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15044,15039 v 90 h -31 v -90 z"
+   id="path461" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15044,15076 v 90 h -31 v -90 z"
+   id="path462" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15044,15113 v 90 h -31 v -90 z"
+   id="path463" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15044,15150 v 90 h -31 v -90 z"
+   id="path464" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g465" />
+        <defs
+   id="defs465">
+         <clipPath
+   id="clip_path_57"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15087,14768 h 31 v 297 h -31 z"
+   id="path465" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_57)"
+   id="g478">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15118,14742 v 56 h -31 v -56 z"
+   id="path466" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15118,14745 v 89 h -31 v -89 z"
+   id="path467" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15118,14781 v 90 h -31 v -90 z"
+   id="path468" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15118,14818 v 89 h -31 v -89 z"
+   id="path469" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15118,14854 v 89 h -31 v -89 z"
+   id="path470" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 15118,14890 v 90 h -31 v -90 z"
+   id="path471" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15118,14927 v 90 h -31 v -90 z"
+   id="path472" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15118,14965 v 90 h -31 v -90 z"
+   id="path473" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15118,15002 v 90 h -31 v -90 z"
+   id="path474" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15118,15039 v 90 h -31 v -90 z"
+   id="path475" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15118,15076 v 90 h -31 v -90 z"
+   id="path476" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15118,15113 v 90 h -31 v -90 z"
+   id="path477" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15118,15150 v 90 h -31 v -90 z"
+   id="path478" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g479" />
+        <defs
+   id="defs479">
+         <clipPath
+   id="clip_path_58"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15162,14768 h 31 v 297 h -31 z"
+   id="path479" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_58)"
+   id="g492">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15193,14742 v 56 h -31 v -56 z"
+   id="path480" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15193,14745 v 89 h -31 v -89 z"
+   id="path481" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15193,14781 v 90 h -31 v -90 z"
+   id="path482" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15193,14818 v 89 h -31 v -89 z"
+   id="path483" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15193,14854 v 89 h -31 v -89 z"
+   id="path484" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 15193,14890 v 90 h -31 v -90 z"
+   id="path485" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15193,14927 v 90 h -31 v -90 z"
+   id="path486" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15193,14965 v 90 h -31 v -90 z"
+   id="path487" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15193,15002 v 90 h -31 v -90 z"
+   id="path488" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15193,15039 v 90 h -31 v -90 z"
+   id="path489" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15193,15076 v 90 h -31 v -90 z"
+   id="path490" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15193,15113 v 90 h -31 v -90 z"
+   id="path491" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15193,15150 v 90 h -31 v -90 z"
+   id="path492" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g493" />
+        <defs
+   id="defs493">
+         <clipPath
+   id="clip_path_59"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15236,14768 h 31 v 297 h -31 z"
+   id="path493" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_59)"
+   id="g506">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15267,14742 v 56 h -31 v -56 z"
+   id="path494" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15267,14745 v 89 h -31 v -89 z"
+   id="path495" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15267,14781 v 90 h -31 v -90 z"
+   id="path496" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15267,14818 v 89 h -31 v -89 z"
+   id="path497" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15267,14854 v 89 h -31 v -89 z"
+   id="path498" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 15267,14890 v 90 h -31 v -90 z"
+   id="path499" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15267,14927 v 90 h -31 v -90 z"
+   id="path500" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15267,14965 v 90 h -31 v -90 z"
+   id="path501" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15267,15002 v 90 h -31 v -90 z"
+   id="path502" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15267,15039 v 90 h -31 v -90 z"
+   id="path503" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15267,15076 v 90 h -31 v -90 z"
+   id="path504" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15267,15113 v 90 h -31 v -90 z"
+   id="path505" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15267,15150 v 90 h -31 v -90 z"
+   id="path506" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g507" />
+        <defs
+   id="defs507">
+         <clipPath
+   id="clip_path_60"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15311,14768 h 31 v 297 h -31 z"
+   id="path507" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_60)"
+   id="g521">
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15342,14739 v 56 h -31 v -56 z"
+   id="path508" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15342,14742 v 56 h -31 v -56 z"
+   id="path509" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15342,14745 v 89 h -31 v -89 z"
+   id="path510" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15342,14781 v 90 h -31 v -90 z"
+   id="path511" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15342,14818 v 89 h -31 v -89 z"
+   id="path512" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15342,14854 v 89 h -31 v -89 z"
+   id="path513" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 15342,14890 v 90 h -31 v -90 z"
+   id="path514" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15342,14927 v 90 h -31 v -90 z"
+   id="path515" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15342,14965 v 90 h -31 v -90 z"
+   id="path516" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15342,15002 v 90 h -31 v -90 z"
+   id="path517" />
+         <path
+   fill="#5e5e5e"
+   stroke="none"
+   d="m 15342,15039 v 90 h -31 v -90 z"
+   id="path518" />
+         <path
+   fill="#575757"
+   stroke="none"
+   d="m 15342,15076 v 90 h -31 v -90 z"
+   id="path519" />
+         <path
+   fill="#4f4f4f"
+   stroke="none"
+   d="m 15342,15113 v 90 h -31 v -90 z"
+   id="path520" />
+         <path
+   fill="#484848"
+   stroke="none"
+   d="m 15342,15150 v 90 h -31 v -90 z"
+   id="path521" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g524">
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 14574,14753 h 834 v 327 h -834 z"
+   id="path522" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 14545,14753 h 893 v 327 h -893 z"
+   id="path523" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14574,14862 h 834 v 109 h -834 z"
+   id="path524" />
+        </g>
+        <defs
+   id="defs525">
+         <clipPath
+   id="clip_path_61"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14640,14758 h 31 v 99 h -31 z"
+   id="path525" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_61)"
+   id="g529">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14671,14732 v 54 h -31 v -54 z"
+   id="path526" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14671,14733 v 101 h -31 v -101 z"
+   id="path527" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 14671,14781 v 103 h -31 v -103 z"
+   id="path528" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14671,14831 v 102 h -31 v -102 z"
+   id="path529" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g530" />
+        <defs
+   id="defs530">
+         <clipPath
+   id="clip_path_62"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14715,14758 h 31 v 99 h -31 z"
+   id="path530" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_62)"
+   id="g534">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14746,14732 v 54 h -31 v -54 z"
+   id="path531" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14746,14733 v 101 h -31 v -101 z"
+   id="path532" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 14746,14781 v 103 h -31 v -103 z"
+   id="path533" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14746,14831 v 102 h -31 v -102 z"
+   id="path534" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g535" />
+        <defs
+   id="defs535">
+         <clipPath
+   id="clip_path_63"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14864,14758 h 31 v 99 h -31 z"
+   id="path535" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_63)"
+   id="g539">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14895,14732 v 54 h -31 v -54 z"
+   id="path536" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14895,14733 v 101 h -31 v -101 z"
+   id="path537" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 14895,14781 v 103 h -31 v -103 z"
+   id="path538" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14895,14831 v 102 h -31 v -102 z"
+   id="path539" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g540" />
+        <defs
+   id="defs540">
+         <clipPath
+   id="clip_path_64"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14789,14758 h 31 v 99 h -31 z"
+   id="path540" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_64)"
+   id="g544">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14820,14732 v 54 h -31 v -54 z"
+   id="path541" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14820,14733 v 101 h -31 v -101 z"
+   id="path542" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 14820,14781 v 103 h -31 v -103 z"
+   id="path543" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14820,14831 v 102 h -31 v -102 z"
+   id="path544" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g545" />
+        <defs
+   id="defs545">
+         <clipPath
+   id="clip_path_65"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14938,14758 h 31 v 99 h -31 z"
+   id="path545" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_65)"
+   id="g549">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14969,14732 v 54 h -31 v -54 z"
+   id="path546" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14969,14733 v 101 h -31 v -101 z"
+   id="path547" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 14969,14781 v 103 h -31 v -103 z"
+   id="path548" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14969,14831 v 102 h -31 v -102 z"
+   id="path549" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g550" />
+        <defs
+   id="defs550">
+         <clipPath
+   id="clip_path_66"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15013,14758 h 31 v 99 h -31 z"
+   id="path550" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_66)"
+   id="g554">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15044,14732 v 54 h -31 v -54 z"
+   id="path551" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15044,14733 v 101 h -31 v -101 z"
+   id="path552" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 15044,14781 v 103 h -31 v -103 z"
+   id="path553" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15044,14831 v 102 h -31 v -102 z"
+   id="path554" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g555" />
+        <defs
+   id="defs555">
+         <clipPath
+   id="clip_path_67"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15087,14758 h 31 v 99 h -31 z"
+   id="path555" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_67)"
+   id="g559">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15118,14732 v 54 h -31 v -54 z"
+   id="path556" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15118,14733 v 101 h -31 v -101 z"
+   id="path557" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 15118,14781 v 103 h -31 v -103 z"
+   id="path558" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15118,14831 v 102 h -31 v -102 z"
+   id="path559" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g560" />
+        <defs
+   id="defs560">
+         <clipPath
+   id="clip_path_68"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15162,14758 h 31 v 99 h -31 z"
+   id="path560" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_68)"
+   id="g564">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15193,14732 v 54 h -31 v -54 z"
+   id="path561" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15193,14733 v 101 h -31 v -101 z"
+   id="path562" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 15193,14781 v 103 h -31 v -103 z"
+   id="path563" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15193,14831 v 102 h -31 v -102 z"
+   id="path564" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g565" />
+        <defs
+   id="defs565">
+         <clipPath
+   id="clip_path_69"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15236,14758 h 31 v 99 h -31 z"
+   id="path565" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_69)"
+   id="g569">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15267,14732 v 54 h -31 v -54 z"
+   id="path566" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15267,14733 v 101 h -31 v -101 z"
+   id="path567" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 15267,14781 v 103 h -31 v -103 z"
+   id="path568" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15267,14831 v 102 h -31 v -102 z"
+   id="path569" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g570" />
+        <defs
+   id="defs570">
+         <clipPath
+   id="clip_path_70"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15311,14758 h 31 v 99 h -31 z"
+   id="path570" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_70)"
+   id="g574">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15342,14732 v 54 h -31 v -54 z"
+   id="path571" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15342,14733 v 101 h -31 v -101 z"
+   id="path572" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 15342,14781 v 103 h -31 v -103 z"
+   id="path573" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15342,14831 v 102 h -31 v -102 z"
+   id="path574" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g575" />
+        <defs
+   id="defs575">
+         <clipPath
+   id="clip_path_71"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14640,14867 h 31 v 99 h -31 z"
+   id="path575" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_71)"
+   id="g580">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14671,14840 v 54 h -31 v -54 z"
+   id="path576" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14671,14841 v 54 h -31 v -54 z"
+   id="path577" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14671,14842 v 101 h -31 v -101 z"
+   id="path578" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 14671,14890 v 103 h -31 v -103 z"
+   id="path579" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14671,14940 v 102 h -31 v -102 z"
+   id="path580" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g581" />
+        <defs
+   id="defs581">
+         <clipPath
+   id="clip_path_72"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14715,14867 h 31 v 99 h -31 z"
+   id="path581" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_72)"
+   id="g585">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14746,14841 v 54 h -31 v -54 z"
+   id="path582" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14746,14842 v 101 h -31 v -101 z"
+   id="path583" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 14746,14890 v 103 h -31 v -103 z"
+   id="path584" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14746,14940 v 102 h -31 v -102 z"
+   id="path585" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g586" />
+        <defs
+   id="defs586">
+         <clipPath
+   id="clip_path_73"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14864,14867 h 31 v 99 h -31 z"
+   id="path586" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_73)"
+   id="g590">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14895,14841 v 54 h -31 v -54 z"
+   id="path587" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14895,14842 v 101 h -31 v -101 z"
+   id="path588" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 14895,14890 v 103 h -31 v -103 z"
+   id="path589" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14895,14940 v 102 h -31 v -102 z"
+   id="path590" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g591" />
+        <defs
+   id="defs591">
+         <clipPath
+   id="clip_path_74"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14789,14867 h 31 v 99 h -31 z"
+   id="path591" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_74)"
+   id="g595">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14820,14841 v 54 h -31 v -54 z"
+   id="path592" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14820,14842 v 101 h -31 v -101 z"
+   id="path593" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 14820,14890 v 103 h -31 v -103 z"
+   id="path594" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14820,14940 v 102 h -31 v -102 z"
+   id="path595" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g596" />
+        <defs
+   id="defs596">
+         <clipPath
+   id="clip_path_75"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14938,14867 h 31 v 99 h -31 z"
+   id="path596" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_75)"
+   id="g600">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14969,14841 v 54 h -31 v -54 z"
+   id="path597" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14969,14842 v 101 h -31 v -101 z"
+   id="path598" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 14969,14890 v 103 h -31 v -103 z"
+   id="path599" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 14969,14940 v 102 h -31 v -102 z"
+   id="path600" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g601" />
+        <defs
+   id="defs601">
+         <clipPath
+   id="clip_path_76"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15013,14867 h 31 v 99 h -31 z"
+   id="path601" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_76)"
+   id="g606">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15044,14840 v 54 h -31 v -54 z"
+   id="path602" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15044,14841 v 54 h -31 v -54 z"
+   id="path603" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15044,14842 v 101 h -31 v -101 z"
+   id="path604" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 15044,14890 v 103 h -31 v -103 z"
+   id="path605" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15044,14940 v 102 h -31 v -102 z"
+   id="path606" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g607" />
+        <defs
+   id="defs607">
+         <clipPath
+   id="clip_path_77"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15087,14867 h 31 v 99 h -31 z"
+   id="path607" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_77)"
+   id="g612">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15118,14840 v 54 h -31 v -54 z"
+   id="path608" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15118,14841 v 54 h -31 v -54 z"
+   id="path609" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15118,14842 v 101 h -31 v -101 z"
+   id="path610" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 15118,14890 v 103 h -31 v -103 z"
+   id="path611" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15118,14940 v 102 h -31 v -102 z"
+   id="path612" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g613" />
+        <defs
+   id="defs613">
+         <clipPath
+   id="clip_path_78"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15162,14867 h 31 v 99 h -31 z"
+   id="path613" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_78)"
+   id="g617">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15193,14841 v 54 h -31 v -54 z"
+   id="path614" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15193,14842 v 101 h -31 v -101 z"
+   id="path615" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 15193,14890 v 103 h -31 v -103 z"
+   id="path616" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15193,14940 v 102 h -31 v -102 z"
+   id="path617" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g618" />
+        <defs
+   id="defs618">
+         <clipPath
+   id="clip_path_79"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15236,14867 h 31 v 99 h -31 z"
+   id="path618" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_79)"
+   id="g622">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15267,14841 v 54 h -31 v -54 z"
+   id="path619" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15267,14842 v 101 h -31 v -101 z"
+   id="path620" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 15267,14890 v 103 h -31 v -103 z"
+   id="path621" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15267,14940 v 102 h -31 v -102 z"
+   id="path622" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g623" />
+        <defs
+   id="defs623">
+         <clipPath
+   id="clip_path_80"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15311,14867 h 31 v 99 h -31 z"
+   id="path623" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_80)"
+   id="g627">
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15342,14840 v 54 h -31 v -54 z"
+   id="path624" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15342,14841 v 54 h -31 v -54 z"
+   id="path625" />
+         <path
+   fill="#3c2d11"
+   stroke="none"
+   d="m 15342,14842 v 101 h -31 v -101 z"
+   id="path626" />
+         <path
+   fill="#765923"
+   stroke="none"
+   d="m 15342,14890 v 103 h -31 v -103 z"
+   id="path627" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g628" />
+        <defs
+   id="defs628">
+         <clipPath
+   id="clip_path_81"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14640,14976 h 31 v 99 h -31 z"
+   id="path628" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_81)"
+   id="g632">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14671,14950 v 54 h -31 v -54 z"
+   id="path629" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14671,14951 v 101 h -31 v -101 z"
+   id="path630" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 14671,14999 v 103 h -31 v -103 z"
+   id="path631" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14671,15049 v 102 h -31 v -102 z"
+   id="path632" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g633" />
+        <defs
+   id="defs633">
+         <clipPath
+   id="clip_path_82"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14715,14976 h 31 v 99 h -31 z"
+   id="path633" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_82)"
+   id="g637">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14746,14950 v 54 h -31 v -54 z"
+   id="path634" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14746,14951 v 101 h -31 v -101 z"
+   id="path635" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 14746,14999 v 103 h -31 v -103 z"
+   id="path636" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14746,15049 v 102 h -31 v -102 z"
+   id="path637" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g638" />
+        <defs
+   id="defs638">
+         <clipPath
+   id="clip_path_83"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14864,14976 h 31 v 99 h -31 z"
+   id="path638" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_83)"
+   id="g642">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14895,14950 v 54 h -31 v -54 z"
+   id="path639" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14895,14951 v 101 h -31 v -101 z"
+   id="path640" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 14895,14999 v 103 h -31 v -103 z"
+   id="path641" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14895,15049 v 102 h -31 v -102 z"
+   id="path642" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g643" />
+        <defs
+   id="defs643">
+         <clipPath
+   id="clip_path_84"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14789,14976 h 31 v 99 h -31 z"
+   id="path643" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_84)"
+   id="g647">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14820,14950 v 54 h -31 v -54 z"
+   id="path644" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14820,14951 v 101 h -31 v -101 z"
+   id="path645" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 14820,14999 v 103 h -31 v -103 z"
+   id="path646" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14820,15049 v 102 h -31 v -102 z"
+   id="path647" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g648" />
+        <defs
+   id="defs648">
+         <clipPath
+   id="clip_path_85"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 14938,14976 h 31 v 99 h -31 z"
+   id="path648" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_85)"
+   id="g652">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14969,14950 v 54 h -31 v -54 z"
+   id="path649" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14969,14951 v 101 h -31 v -101 z"
+   id="path650" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 14969,14999 v 103 h -31 v -103 z"
+   id="path651" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 14969,15049 v 102 h -31 v -102 z"
+   id="path652" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g653" />
+        <defs
+   id="defs653">
+         <clipPath
+   id="clip_path_86"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15013,14976 h 31 v 99 h -31 z"
+   id="path653" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_86)"
+   id="g657">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15044,14950 v 54 h -31 v -54 z"
+   id="path654" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15044,14951 v 101 h -31 v -101 z"
+   id="path655" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 15044,14999 v 103 h -31 v -103 z"
+   id="path656" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15044,15049 v 102 h -31 v -102 z"
+   id="path657" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g658" />
+        <defs
+   id="defs658">
+         <clipPath
+   id="clip_path_87"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15087,14976 h 31 v 99 h -31 z"
+   id="path658" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_87)"
+   id="g662">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15118,14950 v 54 h -31 v -54 z"
+   id="path659" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15118,14951 v 101 h -31 v -101 z"
+   id="path660" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 15118,14999 v 103 h -31 v -103 z"
+   id="path661" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15118,15049 v 102 h -31 v -102 z"
+   id="path662" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g663" />
+        <defs
+   id="defs663">
+         <clipPath
+   id="clip_path_88"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15162,14976 h 31 v 99 h -31 z"
+   id="path663" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_88)"
+   id="g667">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15193,14950 v 54 h -31 v -54 z"
+   id="path664" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15193,14951 v 101 h -31 v -101 z"
+   id="path665" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 15193,14999 v 103 h -31 v -103 z"
+   id="path666" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15193,15049 v 102 h -31 v -102 z"
+   id="path667" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g668" />
+        <defs
+   id="defs668">
+         <clipPath
+   id="clip_path_89"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15236,14976 h 31 v 99 h -31 z"
+   id="path668" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_89)"
+   id="g672">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15267,14950 v 54 h -31 v -54 z"
+   id="path669" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15267,14951 v 101 h -31 v -101 z"
+   id="path670" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 15267,14999 v 103 h -31 v -103 z"
+   id="path671" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15267,15049 v 102 h -31 v -102 z"
+   id="path672" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g673" />
+        <defs
+   id="defs673">
+         <clipPath
+   id="clip_path_90"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 15311,14976 h 31 v 99 h -31 z"
+   id="path673" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_90)"
+   id="g677">
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15342,14950 v 54 h -31 v -54 z"
+   id="path674" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15342,14951 v 101 h -31 v -101 z"
+   id="path675" />
+         <path
+   fill="#6b511f"
+   stroke="none"
+   d="m 15342,14999 v 103 h -31 v -103 z"
+   id="path676" />
+         <path
+   fill="#99732d"
+   stroke="none"
+   d="m 15342,15049 v 102 h -31 v -102 z"
+   id="path677" />
+        </g>
+        <g
+   clip-path="url(#clip_path_50)"
+   id="g679">
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 15263,15298 h 135 c 24,0 44,-19 44,-43 0,-24 -20,-43 -44,-43 h -135 c -25,0 -44,19 -44,43 0,24 19,43 44,43 z"
+   id="path678" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="8"
+   stroke-linejoin="round"
+   d="m 15263,15298 h 135 c 24,0 44,-19 44,-43 0,-24 -20,-43 -44,-43 h -135 c -25,0 -44,19 -44,43 0,24 19,43 44,43 z"
+   id="path679" />
+        </g>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g681">
+         <text
+   class="SVGTextShape"
+   id="text681"><tspan
+     class="TextParagraph"
+     id="tspan681"><tspan
+       class="TextPosition"
+       x="15098"
+       y="15437"
+       id="tspan680"><tspan
+         font-family="Arial, sans-serif"
+         font-size="136px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#ffffff"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan679">Link/RX</tspan></tspan></tspan></text>
+        </g>
+        <defs
+   id="defs681">
+         <clipPath
+   id="clip_path_91"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 3976,12154 h 13642 v 3636 H 3976 Z"
+   id="path681" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_91)"
+   id="g685">
+         <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 14068,15404 v 169 l 1841,3 -1,-172"
+   id="path682" />
+         <path
+   fill="#ffffff"
+   stroke="none"
+   d="m 14056,15406 h 24 v -12 l -1,-4 -3,-4 -4,-3 -4,-1 -5,1 -4,3 -2,4 -1,4 z"
+   id="path683" />
+         <path
+   fill="#ffffff"
+   stroke="none"
+   d="m 15896,15406 h 23 v -12 l -1,-5 -2,-3 -4,-3 -5,-1 -4,1 -4,3 -3,4 v 4 z"
+   id="path684" />
+         <path
+   fill="#595959"
+   stroke="none"
+   d="m 14630,15452 h 717 v 233 h -717 z"
+   id="path685" />
+        </g>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g687">
+         <text
+   class="SVGTextShape"
+   id="text687"><tspan
+     class="TextParagraph"
+     id="tspan687"><tspan
+       class="TextPosition"
+       x="14630"
+       y="15626"
+       id="tspan686"><tspan
+         font-family="Arial, sans-serif"
+         font-size="194px"
+         font-weight="400"
+         lengthAdjust="spacingAndGlyphs"
+         fill="#ffffff"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan685">PORT 1</tspan></tspan></tspan></text>
+        </g>
+        <defs
+   id="defs687">
+         <clipPath
+   id="clip_path_92"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 3976,12154 h 13642 v 3636 H 3976 Z"
+   id="path687" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_92)"
+   id="g713">
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17243,14270 c 4,11 4,22 0,33 -70,29 -140,57 -210,85 -3,-11 -4,-22 -3,-34 72,-25 143,-54 213,-84 z"
+   id="path688" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17246,14463 c 2,31 -5,59 -23,85 -10,-5 -20,-11 -30,-17 24,-32 25,-65 2,-98 -40,-33 -79,-32 -118,3 -19,33 -18,65 5,95 -9,9 -20,14 -32,14 -37,-66 -24,-119 41,-159 78,-23 130,3 155,77 z"
+   id="path689" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17246,14635 c 2,31 -5,59 -23,85 -10,-5 -20,-11 -30,-17 24,-32 25,-65 2,-98 -32,-28 -66,-31 -104,-11 -24,21 -33,47 -26,77 4,12 9,23 17,32 -10,7 -20,12 -31,15 -38,-63 -27,-115 34,-157 80,-28 133,-3 161,74 z"
+   id="path690" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17246,14738 c 0,46 0,92 0,139 -12,0 -23,0 -34,0 0,-37 0,-73 0,-109 -20,0 -39,0 -59,0 0,26 0,52 0,78 -10,0 -20,0 -31,0 0,-26 0,-52 0,-78 -19,0 -39,0 -58,0 0,36 0,72 0,109 -12,0 -23,0 -34,0 0,-47 0,-93 0,-139 72,0 144,0 216,0 z"
+   id="path691" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17246,14895 c 2,29 -1,59 -8,87 -37,68 -91,85 -162,50 -24,-18 -39,-42 -45,-71 -1,-22 -2,-44 -1,-66 11,0 22,0 34,0 -1,24 0,48 1,72 26,50 64,63 116,38 16,-12 25,-28 29,-47 2,-21 2,-42 2,-63 11,0 22,0 34,0 z"
+   id="path692" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17246,15067 c 0,12 0,24 0,36 -72,0 -144,0 -216,0 0,-12 0,-24 0,-36 72,0 144,0 216,0 z"
+   id="path693" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17246,15203 c 1,11 0,22 -3,33 -70,28 -140,56 -210,84 -4,-11 -4,-22 0,-33 70,-29 141,-57 213,-84 z"
+   id="path694" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17243,15341 c -71,-3 -142,-4 -213,-3 71,-4 143,-4 216,0 -1,2 -2,3 -3,3 z"
+   id="path695" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17246,15483 c -45,1 -89,0 -133,-3 0,-1 1,-2 3,-3 43,2 87,4 130,6 z"
+   id="path696" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17246,15483 c 0,10 0,20 0,31 -72,0 -144,0 -216,-2 42,-46 86,-92 129,-137 2,0 3,-1 3,-3 -44,-3 -88,-4 -132,-3 0,-10 0,-20 0,-31 71,-1 142,0 213,3 -44,45 -86,90 -127,136 -2,1 -3,2 -3,3 44,3 88,4 133,3 z"
+   id="path697" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17203,14252 c 0,2 -1,5 -4,6 -11,5 -22,9 -34,12 -44,-18 -90,-35 -135,-51 -1,-12 0,-23 3,-34 56,23 113,46 170,67 z"
+   id="path698" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17203,15185 c -10,8 -22,14 -36,18 -45,-17 -90,-35 -134,-53 -4,-11 -4,-21 0,-32 56,22 113,44 170,67 z"
+   id="path699" />
+         <path
+   fill="#ff9900"
+   stroke="none"
+   d="m 17159,15375 c -43,-2 -86,-4 -129,-6 44,-1 88,0 132,3 0,2 -1,3 -3,3 z"
+   id="path700" />
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 16158,14484 h 201 v 12 h -201 z"
+   id="path701" />
+         <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="17"
+   stroke-linejoin="miter"
+   d="m 16158,14496 h 201 v -12 h -201 z"
+   id="path702" />
+         <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="17"
+   stroke-linejoin="miter"
+   d="m 16208,14466 c 45,-64 -45,-94 0,-158"
+   id="path703" />
+         <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="17"
+   stroke-linejoin="miter"
+   d="m 16259,14466 c 44,-64 -46,-94 -1,-158"
+   id="path704" />
+         <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="17"
+   stroke-linejoin="miter"
+   d="m 16309,14466 c 45,-64 -46,-94 0,-158"
+   id="path705" />
+         <path
+   fill="#ffffff"
+   stroke="none"
+   d="m 16057,14514 201,-348 201,348 z m 201,-386 c -4,0 -8,2 -11,6 l -222,386 c -3,4 -3,9 0,12 2,4 6,7 11,7 h 445 c 5,0 9,-3 11,-7 2,-3 2,-8 0,-12 l -223,-386 c -2,-4 -6,-6 -11,-6 z"
+   id="path706" />
+         <path
+   fill="#ffffff"
+   stroke="none"
+   d="m 16210,14746 -210,354 c -13,22 -5,51 18,63 7,4 15,7 24,7 h 418 c 26,0 48,-21 48,-47 0,-8 -2,-16 -7,-23 l -209,-354 c -13,-23 -42,-30 -65,-18 -7,5 -13,10 -17,18 z"
+   id="path707" />
+         <path
+   fill="#595959"
+   stroke="none"
+   d="m 16365,14861 c -29,45 -97,38 -147,54 -36,10 -62,31 -73,52 -12,24 -5,48 -5,79 5,37 3,48 16,61 10,19 17,5 21,-17 0,-2 1,-4 -5,-14 0,-30 16,-61 26,-78 37,-1 42,9 45,19 5,13 8,26 -24,59 13,52 54,-16 67,-42 9,-20 3,-15 17,-26 22,-18 99,-76 113,-64 z"
+   id="path708" />
+         <path
+   fill="none"
+   stroke="#595959"
+   stroke-width="33"
+   stroke-linejoin="round"
+   d="m 16107,14947 397,204"
+   id="path709" />
+         <path
+   fill="#595959"
+   stroke="none"
+   d="m 16102,14962 15,-29 -15,-7 -6,-2 -6,1 -6,3 -4,5 -2,6 1,6 3,5 5,4 z"
+   id="path710" />
+         <path
+   fill="#595959"
+   stroke="none"
+   d="m 16510,15135 -15,29 14,8 6,1 h 7 l 5,-3 5,-5 1,-6 v -7 l -3,-5 -5,-4 z"
+   id="path711" />
+         <path
+   fill="#595959"
+   stroke="none"
+   d="m 17390,14340 h 209 v 1260 c 0,51 -43,93 -96,93 h -113 z"
+   id="path712" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="24"
+   stroke-linejoin="round"
+   d="m 17390,14340 h 209 v 1260 c 0,51 -43,93 -96,93 h -113 z"
+   id="path713" />
+        </g>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g714" />
+        <g
+   clip-path="url(#clip_path_2)"
+   id="g715" />
+        <g
+   clip-path="url(#clip_path_1)"
+   id="g716" />
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
