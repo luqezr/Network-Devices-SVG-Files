@@ -3,7 +3,7 @@
    version="1.2"
    width="62.7156mm"
    height="12.4956mm"
-   viewBox="-696.8400 -138.8400 6271.5601 1249.5600"
+   viewBox="-232.2800 -46.2800 6271.5601 1249.5600"
    preserveAspectRatio="xMidYMid"
    fill-rule="evenodd"
    stroke-width="28.222"
@@ -310,7 +310,7 @@
  </defs>
  <g
    id="g37"
-   transform="translate(-8355.56,-13483.56)">
+   transform="translate(-7891,-13391)">
   <g
    id="id2"
    class="Master_Slide">
@@ -325,7 +325,7 @@
  <g
    class="SlideGroup"
    id="g1774"
-   transform="translate(-8355.56,-13483.56)">
+   transform="translate(-7891,-13391)">
   <g
    id="g1773">
    <g
@@ -433,7 +433,7 @@
          <path
    fill="#000000"
    stroke="none"
-   d="m 9103,14037 v -32 l -33,16 z"
+   d="m 9103,14037 v -32 l -33,16 33,16 z"
    id="path49" />
          <path
    fill="none"
@@ -489,7 +489,7 @@
          <path
    fill="#000000"
    stroke="none"
-   d="m 9070,14424 v 33 l 33,-16 z"
+   d="m 9070,14424 v 33 l 33,-16 -33,-17 z"
    id="path57" />
          <path
    fill="none"
@@ -1173,7 +1173,7 @@
          <path
    fill="#b2b2b2"
    stroke="none"
-   d="m 8777,14104 v 19 c 0,1 0,1 0,1 h 37 c 0,0 0,0 0,-1 v -19 c 0,0 0,0 0,0 z"
+   d="m 8777,14104 v 19 c 0,1 0,1 0,1 h 37 c 0,0 0,0 0,-1 v -19 c 0,0 0,0 0,0 h -37 z"
    id="path160" />
          <path
    fill="none"
@@ -1253,7 +1253,7 @@
          <path
    fill="#dddddd"
    stroke="none"
-   d="m 8786,14110 v 8 c 0,0 0,0 0,0 h 19 c 0,0 0,0 0,0 v -8 c 0,0 0,0 0,0 z"
+   d="m 8786,14110 v 8 c 0,0 0,0 0,0 h 19 c 0,0 0,0 0,0 v -8 c 0,0 0,0 0,0 h -19 z"
    id="path174" />
          <path
    fill="none"
@@ -1265,7 +1265,7 @@
          <path
    fill="#b2b2b2"
    stroke="none"
-   d="m 8777,14247 v 19 c 0,1 0,1 0,1 h 37 c 0,0 0,0 0,-1 v -19 c 0,0 0,0 0,0 z"
+   d="m 8777,14247 v 19 c 0,1 0,1 0,1 h 37 c 0,0 0,0 0,-1 v -19 c 0,0 0,0 0,0 h -37 z"
    id="path176" />
          <path
    fill="none"
@@ -1345,7 +1345,7 @@
          <path
    fill="#dddddd"
    stroke="none"
-   d="m 8786,14253 v 8 c 0,0 0,0 0,0 h 19 c 0,0 0,0 0,0 v -8 c 0,0 0,0 0,0 z"
+   d="m 8786,14253 v 8 c 0,0 0,0 0,0 h 19 c 0,0 0,0 0,0 v -8 c 0,0 0,0 0,0 h -19 z"
    id="path190" />
          <path
    fill="none"
@@ -2189,7 +2189,7 @@
          <path
    fill="#b2b2b2"
    stroke="none"
-   d="m 9593,14104 v 19 c 0,1 0,1 0,1 h 37 c 0,0 0,0 0,-1 v -19 c 0,0 0,0 0,0 z"
+   d="m 9593,14104 v 19 c 0,1 0,1 0,1 h 37 c 0,0 0,0 0,-1 v -19 c 0,0 0,0 0,0 h -37 z"
    id="path318" />
          <path
    fill="none"
@@ -2269,7 +2269,7 @@
          <path
    fill="#dddddd"
    stroke="none"
-   d="m 9602,14110 v 8 c 0,0 0,0 0,0 h 19 c 0,0 0,0 0,0 v -8 c 0,0 0,0 0,0 z"
+   d="m 9602,14110 v 8 c 0,0 0,0 0,0 h 19 c 0,0 0,0 0,0 v -8 c 0,0 0,0 0,0 h -19 z"
    id="path332" />
          <path
    fill="none"
@@ -2281,7 +2281,7 @@
          <path
    fill="#b2b2b2"
    stroke="none"
-   d="m 9593,14247 v 19 c 0,1 0,1 0,1 h 37 c 0,0 0,0 0,-1 v -19 c 0,0 0,0 0,0 z"
+   d="m 9593,14247 v 19 c 0,1 0,1 0,1 h 37 c 0,0 0,0 0,-1 v -19 c 0,0 0,0 0,0 h -37 z"
    id="path334" />
          <path
    fill="none"
@@ -2361,7 +2361,7 @@
          <path
    fill="#dddddd"
    stroke="none"
-   d="m 9602,14253 v 8 c 0,0 0,0 0,0 h 19 c 0,0 0,0 0,0 v -8 c 0,0 0,0 0,0 z"
+   d="m 9602,14253 v 8 c 0,0 0,0 0,0 h 19 c 0,0 0,0 0,0 v -8 c 0,0 0,0 0,0 h -19 z"
    id="path348" />
          <path
    fill="none"
@@ -3499,7 +3499,7 @@
          <path
    fill="#000000"
    stroke="none"
-   d="m 9891,14424 v 33 l 33,-16 z"
+   d="m 9891,14424 v 33 l 33,-16 -33,-17 z"
    id="path525" />
          <path
    fill="none"
@@ -5678,7 +5678,7 @@
          <path
    fill="#000000"
    stroke="none"
-   d="m 11594,14424 v 33 l 33,-16 z"
+   d="m 11594,14424 v 33 l 33,-16 -33,-17 z"
    id="path837" />
          <path
    fill="none"
@@ -5734,7 +5734,7 @@
          <path
    fill="#000000"
    stroke="none"
-   d="m 11627,13503 v 32 l -33,-16 z"
+   d="m 11627,13503 v 32 l -33,-16 33,-16 z"
    id="path845" />
          <path
    fill="none"
@@ -5802,7 +5802,7 @@
          <path
    fill="#000000"
    stroke="none"
-   d="m 13334,14424 v 33 l -33,-16 z"
+   d="m 13334,14424 v 33 l -33,-16 33,-17 z"
    id="path855" />
          <path
    fill="none"

@@ -1,0 +1,1468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.2"
+   width="9.0310mm"
+   height="3.1020mm"
+   viewBox="-41.0500 -14.1000 903.1000 310.2000"
+   preserveAspectRatio="xMidYMid"
+   fill-rule="evenodd"
+   stroke-width="28.222"
+   stroke-linejoin="round"
+   xml:space="preserve"
+   id="svg195"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:ooo="http://xml.openoffice.org/svg/export">
+ <defs
+   class="ClipPathGroup"
+   id="defs2">
+  <clipPath
+   id="presentation_clip_path"
+   clipPathUnits="userSpaceOnUse">
+   <rect
+   x="0"
+   y="0"
+   width="21590"
+   height="27940"
+   id="rect1" />
+  </clipPath>
+  <clipPath
+   id="presentation_clip_path_shrink"
+   clipPathUnits="userSpaceOnUse">
+   <rect
+   x="21"
+   y="27"
+   width="21547"
+   height="27885"
+   id="rect2" />
+  </clipPath>
+ </defs>
+ <defs
+   id="defs19">
+  <font
+   id="EmbeddedFont_1"
+   horiz-adv-x="2048"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="512"
+   vert-origin-y="768"
+   vert-adv-y="1024">
+   <font-face
+   font-family="ARIAL embedded"
+   units-per-em="2048"
+   font-weight="bold"
+   font-style="normal"
+   ascent="1852"
+   descent="423"
+   id="font-face2" />
+   <missing-glyph
+   horiz-adv-x="2048"
+   d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z "
+   id="missing-glyph2" />
+   <glyph
+   unicode="T"
+   horiz-adv-x="1202"
+   d="M 773,1181 L 773,0 478,0 478,1181 23,1181 23,1409 1229,1409 1229,1181 773,1181 Z "
+   id="glyph2" />
+   <glyph
+   unicode="S"
+   horiz-adv-x="1223"
+   d="M 1286,406 C 1286,268 1235,163 1133,90 1030,17 880,-20 682,-20 501,-20 360,12 257,76 154,140 88,237 59,367 L 344,414 C 363,339 401,285 457,252 513,218 591,201 690,201 896,201 999,264 999,389 999,429 987,462 964,488 940,514 907,536 864,553 821,570 738,591 616,616 511,641 437,661 396,676 355,691 317,708 284,729 251,749 222,773 199,802 176,831 158,864 145,903 132,942 125,986 125,1036 125,1163 173,1261 269,1329 364,1396 503,1430 686,1430 861,1430 992,1403 1080,1348 1167,1293 1224,1203 1249,1077 L 963,1038 C 948,1099 919,1144 874,1175 829,1206 764,1221 680,1221 501,1221 412,1165 412,1053 412,1016 422,986 441,963 460,940 488,920 525,904 562,887 638,867 752,842 887,813 984,787 1043,763 1101,738 1147,710 1181,678 1215,645 1241,607 1259,562 1277,517 1286,465 1286,406 Z "
+   id="glyph3" />
+   <glyph
+   unicode="R"
+   horiz-adv-x="1295"
+   d="M 1105,0 L 778,535 432,535 432,0 137,0 137,1409 841,1409 C 1009,1409 1139,1373 1230,1301 1321,1228 1367,1124 1367,989 1367,890 1339,805 1283,734 1227,662 1151,615 1056,592 L 1437,0 1105,0 Z M 1070,977 C 1070,1112 983,1180 810,1180 L 432,1180 432,764 818,764 C 901,764 963,783 1006,820 1049,857 1070,910 1070,977 Z "
+   id="glyph4" />
+   <glyph
+   unicode="P"
+   horiz-adv-x="1155"
+   d="M 1296,963 C 1296,872 1275,791 1234,720 1193,649 1134,594 1057,555 980,516 888,496 782,496 L 432,496 432,0 137,0 137,1409 770,1409 C 939,1409 1069,1370 1160,1293 1251,1215 1296,1105 1296,963 Z M 999,958 C 999,1106 912,1180 737,1180 L 432,1180 432,723 745,723 C 826,723 889,743 933,784 977,824 999,882 999,958 Z "
+   id="glyph5" />
+   <glyph
+   unicode="O"
+   horiz-adv-x="1418"
+   d="M 1507,711 C 1507,564 1478,435 1420,324 1362,213 1279,128 1171,69 1063,10 937,-20 793,-20 572,-20 398,45 273,176 147,306 84,484 84,711 84,937 147,1113 272,1240 397,1367 572,1430 795,1430 1018,1430 1193,1366 1319,1238 1444,1110 1507,934 1507,711 Z M 1206,711 C 1206,863 1170,982 1098,1069 1026,1155 925,1198 795,1198 663,1198 561,1155 489,1070 417,984 381,864 381,711 381,556 418,435 492,346 565,257 666,212 793,212 925,212 1027,255 1099,342 1170,429 1206,552 1206,711 Z "
+   id="glyph6" />
+   <glyph
+   unicode="N"
+   horiz-adv-x="1199"
+   d="M 995,0 L 381,1085 C 393,980 399,895 399,831 L 399,0 137,0 137,1409 474,1409 1097,315 C 1085,416 1079,507 1079,590 L 1079,1409 1341,1409 1341,0 995,0 Z "
+   id="glyph7" />
+   <glyph
+   unicode="L"
+   horiz-adv-x="1047"
+   d="M 137,0 L 137,1409 432,1409 432,228 1188,228 1188,0 137,0 Z "
+   id="glyph8" />
+   <glyph
+   unicode="K"
+   horiz-adv-x="1318"
+   d="M 1112,0 L 606,647 432,514 432,0 137,0 137,1409 432,1409 432,770 1067,1409 1411,1409 809,813 1460,0 1112,0 Z "
+   id="glyph9" />
+   <glyph
+   unicode="I"
+   horiz-adv-x="295"
+   d="M 137,0 L 137,1409 432,1409 432,0 137,0 Z "
+   id="glyph10" />
+   <glyph
+   unicode="D"
+   horiz-adv-x="1251"
+   d="M 1393,715 C 1393,570 1365,443 1308,335 1251,226 1170,143 1066,86 961,29 842,0 707,0 L 137,0 137,1409 647,1409 C 884,1409 1068,1349 1198,1230 1328,1110 1393,938 1393,715 Z M 1096,715 C 1096,866 1057,982 978,1062 899,1141 787,1181 641,1181 L 432,1181 432,228 682,228 C 809,228 909,272 984,359 1059,446 1096,565 1096,715 Z "
+   id="glyph11" />
+   <glyph
+   unicode="C"
+   horiz-adv-x="1334"
+   d="M 795,212 C 973,212 1097,301 1166,480 L 1423,383 C 1368,247 1287,146 1180,80 1073,13 944,-20 795,-20 568,-20 393,44 270,173 146,301 84,480 84,711 84,942 144,1120 263,1244 382,1368 555,1430 782,1430 947,1430 1082,1397 1186,1331 1290,1264 1363,1167 1405,1038 L 1145,967 C 1123,1038 1080,1094 1016,1136 951,1177 875,1198 788,1198 655,1198 554,1157 485,1074 416,991 381,870 381,711 381,549 417,425 488,340 559,255 661,212 795,212 Z "
+   id="glyph12" />
+   <glyph
+   unicode="B"
+   horiz-adv-x="1244"
+   d="M 1386,402 C 1386,274 1338,175 1242,105 1146,35 1013,0 842,0 L 137,0 137,1409 782,1409 C 954,1409 1084,1379 1173,1320 1261,1260 1305,1172 1305,1055 1305,975 1283,908 1239,853 1194,798 1127,760 1036,741 1150,728 1237,692 1297,634 1356,575 1386,498 1386,402 Z M 1008,1015 C 1008,1078 988,1123 948,1150 907,1177 847,1190 768,1190 L 432,1190 432,841 770,841 C 853,841 914,856 952,885 989,914 1008,957 1008,1015 Z M 1090,425 C 1090,557 995,623 806,623 L 432,623 432,219 817,219 C 912,219 981,236 1025,271 1068,305 1090,356 1090,425 Z "
+   id="glyph13" />
+   <glyph
+   unicode="A"
+   horiz-adv-x="1369"
+   d="M 1133,0 L 1008,360 471,360 346,0 51,0 565,1409 913,1409 1425,0 1133,0 Z M 739,1192 L 733,1170 C 726,1146 718,1119 709,1088 700,1057 642,889 537,582 L 942,582 803,987 760,1123 739,1192 Z "
+   id="glyph14" />
+   <glyph
+   unicode="3"
+   horiz-adv-x="1015"
+   d="M 1065,391 C 1065,259 1022,157 935,85 848,13 725,-23 565,-23 414,-23 293,12 204,82 115,151 62,252 47,383 L 333,408 C 351,273 428,205 564,205 631,205 684,222 721,255 758,288 777,339 777,408 777,471 754,519 709,552 664,585 596,602 507,602 L 409,602 409,829 501,829 C 582,829 642,846 683,879 724,912 744,959 744,1020 744,1078 728,1124 696,1157 663,1190 616,1206 554,1206 496,1206 449,1190 414,1158 378,1126 357,1081 352,1022 L 71,1042 C 86,1163 136,1258 222,1327 308,1396 420,1430 559,1430 706,1430 822,1397 905,1331 988,1264 1029,1172 1029,1055 1029,967 1003,895 952,838 900,781 825,744 728,725 L 728,721 C 836,708 919,673 978,615 1036,556 1065,482 1065,391 Z "
+   id="glyph15" />
+   <glyph
+   unicode="2"
+   horiz-adv-x="983"
+   d="M 71,0 L 71,195 C 108,276 160,354 228,431 295,508 380,588 483,671 582,751 651,817 691,869 730,921 750,972 750,1022 750,1145 688,1206 565,1206 505,1206 459,1190 428,1158 396,1125 375,1077 366,1012 L 83,1028 C 99,1159 148,1258 230,1327 311,1396 422,1430 563,1430 715,1430 832,1395 913,1326 994,1257 1035,1159 1035,1034 1035,968 1022,908 996,855 970,802 937,753 896,708 855,663 810,620 761,581 711,542 663,503 616,466 569,429 527,391 489,353 450,315 422,274 403,231 L 1057,231 1057,0 71,0 Z "
+   id="glyph16" />
+   <glyph
+   unicode="1"
+   horiz-adv-x="950"
+   d="M 129,0 L 129,209 478,209 478,1170 140,959 140,1180 493,1409 759,1409 759,209 1082,209 1082,0 129,0 Z "
+   id="glyph17" />
+   <glyph
+   unicode="/"
+   horiz-adv-x="529"
+   d="M 20,-41 L 311,1484 549,1484 263,-41 20,-41 Z "
+   id="glyph18" />
+   <glyph
+   unicode=" "
+   horiz-adv-x="566"
+   id="glyph19" />
+  </font>
+ </defs>
+ <defs
+   id="defs39">
+  <font
+   id="EmbeddedFont_2"
+   horiz-adv-x="2048"
+   horiz-origin-x="0"
+   horiz-origin-y="0"
+   vert-origin-x="512"
+   vert-origin-y="768"
+   vert-adv-y="1024">
+   <font-face
+   font-family="ARIAL NARROW embedded"
+   units-per-em="2048"
+   font-weight="bold"
+   font-style="normal"
+   ascent="1455"
+   descent="582"
+   id="font-face19" />
+   <missing-glyph
+   horiz-adv-x="2048"
+   d="M 0,0 L 2047,0 2047,2047 0,2047 0,0 Z "
+   id="missing-glyph19" />
+   <glyph
+   unicode="W"
+   horiz-adv-x="1528"
+   d="M 369,0 L 602,0 653,291 C 680,444 727,745 791,1157 838,825 856,715 979,0 L 1221,0 1561,1470 1305,1470 C 1167,752 1135,571 1106,383 1075,602 1059,702 926,1470 L 657,1470 C 565,899 524,641 489,383 463,586 438,723 295,1470 L 27,1470 369,0 Z "
+   id="glyph20" />
+   <glyph
+   unicode="U"
+   horiz-adv-x="969"
+   d="M 1094,1470 L 838,1470 838,502 C 838,317 756,221 604,221 459,221 377,328 377,516 L 377,1470 121,1470 121,496 C 121,156 295,-39 604,-39 924,-39 1094,154 1094,514 L 1094,1470 Z "
+   id="glyph21" />
+   <glyph
+   unicode="T"
+   horiz-adv-x="978"
+   d="M 639,1210 L 1004,1210 1004,1470 23,1470 23,1210 387,1210 387,0 639,0 639,1210 Z "
+   id="glyph22" />
+   <glyph
+   unicode="S"
+   horiz-adv-x="988"
+   d="M 66,453 C 70,334 84,274 121,201 199,45 356,-39 567,-39 872,-39 1057,141 1057,438 1057,657 967,770 741,838 L 446,926 C 354,954 319,995 319,1079 319,1190 399,1257 535,1257 684,1257 758,1190 776,1034 L 1018,1034 C 999,1341 831,1509 543,1509 256,1509 84,1337 84,1049 84,922 119,823 186,756 238,702 313,668 467,625 L 596,588 C 766,539 815,498 815,401 815,281 727,213 571,213 401,213 317,291 307,453 L 66,453 Z "
+   id="glyph23" />
+   <glyph
+   unicode="R"
+   horiz-adv-x="1006"
+   d="M 127,0 L 373,0 373,573 633,573 C 803,569 831,526 829,295 831,156 838,84 858,0 L 1137,0 1137,39 C 1094,59 1085,92 1083,221 1085,565 1065,633 930,705 1053,766 1116,883 1116,1053 1116,1307 967,1470 735,1470 L 127,1470 127,0 Z M 373,823 L 373,1219 688,1219 C 803,1219 864,1149 864,1020 864,885 803,823 670,823 L 373,823 Z "
+   id="glyph24" />
+   <glyph
+   unicode="O"
+   horiz-adv-x="1155"
+   d="M 662,1509 C 494,1509 342,1440 240,1315 131,1184 74,985 74,733 74,551 104,397 162,276 258,80 442,-39 653,-39 815,-39 967,33 1067,156 1176,287 1233,485 1233,735 1233,983 1176,1184 1067,1315 967,1436 815,1509 662,1509 Z M 657,1249 C 737,1249 817,1210 870,1143 942,1057 981,915 981,741 981,416 858,221 653,221 449,221 326,416 326,739 326,1057 451,1249 657,1249 Z "
+   id="glyph25" />
+   <glyph
+   unicode="N"
+   horiz-adv-x="977"
+   d="M 864,438 L 381,1470 117,1470 117,0 350,0 350,1055 848,0 1098,0 1098,1470 864,1470 864,438 Z "
+   id="glyph26" />
+   <glyph
+   unicode="M"
+   horiz-adv-x="1163"
+   d="M 1284,1470 L 922,1470 705,303 483,1470 117,1470 117,0 350,0 350,1247 573,0 821,0 1051,1247 1051,0 1284,0 1284,1470 Z "
+   id="glyph27" />
+   <glyph
+   unicode="L"
+   horiz-adv-x="849"
+   d="M 379,1470 L 127,1470 127,0 979,0 979,266 379,266 379,1470 Z "
+   id="glyph28" />
+   <glyph
+   unicode="I"
+   horiz-adv-x="253"
+   d="M 358,1470 L 107,1470 107,0 358,0 358,1470 Z "
+   id="glyph29" />
+   <glyph
+   unicode="H"
+   horiz-adv-x="971"
+   d="M 842,662 L 842,0 1094,0 1094,1470 842,1470 842,913 371,913 371,1470 119,1470 119,0 371,0 371,662 842,662 Z "
+   id="glyph30" />
+   <glyph
+   unicode="F"
+   horiz-adv-x="855"
+   d="M 379,619 L 909,619 909,879 379,879 379,1210 985,1210 985,1470 127,1470 127,0 379,0 379,619 Z "
+   id="glyph31" />
+   <glyph
+   unicode="E"
+   horiz-adv-x="912"
+   d="M 1014,1470 L 127,1470 127,0 1042,0 1042,260 373,260 373,641 963,641 963,901 373,901 373,1210 1014,1210 1014,1470 Z "
+   id="glyph32" />
+   <glyph
+   unicode="D"
+   horiz-adv-x="1020"
+   d="M 127,0 L 649,0 C 782,0 899,53 979,154 1090,295 1151,510 1151,766 1151,1212 971,1470 659,1470 L 127,1470 127,0 Z M 373,1219 L 614,1219 C 805,1219 895,1069 895,758 895,438 793,252 619,252 L 373,252 373,1219 Z "
+   id="glyph33" />
+   <glyph
+   unicode="C"
+   horiz-adv-x="1071"
+   d="M 1149,989 C 1137,1106 1118,1167 1073,1249 981,1417 823,1509 633,1509 289,1509 74,1210 74,731 74,254 283,-39 627,-39 786,-39 922,27 1014,152 1083,246 1116,332 1149,504 L 897,504 C 879,422 866,385 840,342 791,266 719,227 629,227 442,227 330,416 330,729 330,1055 442,1243 639,1243 723,1243 795,1206 838,1145 864,1102 879,1069 897,989 L 1149,989 Z "
+   id="glyph34" />
+   <glyph
+   unicode="B"
+   horiz-adv-x="994"
+   d="M 127,0 L 637,0 C 846,0 936,31 1020,131 1090,215 1124,322 1124,442 1124,524 1108,598 1079,655 1047,719 1014,752 938,793 1042,858 1085,942 1085,1087 1085,1325 944,1470 713,1470 L 127,1470 127,0 Z M 369,645 L 690,645 C 805,645 872,578 872,461 872,326 805,252 678,252 L 369,252 369,645 Z M 369,1219 L 657,1219 C 786,1219 844,1169 844,1063 844,954 780,895 664,895 L 369,895 369,1219 Z "
+   id="glyph35" />
+   <glyph
+   unicode="A"
+   horiz-adv-x="1143"
+   d="M 383,303 L 827,303 905,0 1180,0 754,1470 463,1470 33,0 299,0 383,303 Z M 606,1145 L 758,555 451,555 606,1145 Z "
+   id="glyph36" />
+   <glyph
+   unicode="/"
+   horiz-adv-x="577"
+   d="M 522,1509 L 326,1509 -55,-39 141,-39 522,1509 Z "
+   id="glyph37" />
+   <glyph
+   unicode="-"
+   horiz-adv-x="469"
+   d="M 514,707 L 45,707 45,440 514,440 514,707 Z "
+   id="glyph38" />
+   <glyph
+   unicode=" "
+   horiz-adv-x="465"
+   id="glyph39" />
+  </font>
+ </defs>
+ <defs
+   class="TextShapeIndex"
+   id="defs40">
+  <g
+   ooo:slide="id1"
+   ooo:id-list="id3"
+   id="g39" />
+ </defs>
+ <defs
+   class="EmbeddedBulletChars"
+   id="defs49">
+  <g
+   id="bullet-char-template-57356"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 580,1141 1163,571 580,0 -4,571 Z"
+   id="path40" />
+  </g>
+  <g
+   id="bullet-char-template-57354"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 8,1128 H 1137 V 0 H 8 Z"
+   id="path41" />
+  </g>
+  <g
+   id="bullet-char-template-10146"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 174,0 602,739 174,1481 1456,739 Z M 1358,739 309,1346 659,739 Z"
+   id="path42" />
+  </g>
+  <g
+   id="bullet-char-template-10132"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 2015,739 1276,0 H 717 l 543,543 H 174 v 393 h 1086 l -543,545 h 557 z"
+   id="path43" />
+  </g>
+  <g
+   id="bullet-char-template-10007"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="m 0,-2 c -7,16 -16,29 -25,39 l 381,530 c -94,256 -141,385 -141,387 0,25 13,38 40,38 9,0 21,-2 34,-5 21,4 42,12 65,25 l 27,-13 111,-251 280,301 64,-25 24,25 c 21,-10 41,-24 62,-43 C 886,937 835,863 770,784 769,783 710,716 594,584 L 774,223 c 0,-27 -21,-55 -63,-84 l 16,-20 C 717,90 699,76 672,76 641,76 570,178 457,381 L 164,-76 c -22,-34 -53,-51 -92,-51 -42,0 -63,17 -64,51 -7,9 -10,24 -10,44 0,9 1,19 2,30 z"
+   id="path44" />
+  </g>
+  <g
+   id="bullet-char-template-10004"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 285,-33 C 182,-33 111,30 74,156 52,228 41,333 41,471 c 0,78 14,145 41,201 34,71 87,106 158,106 53,0 88,-31 106,-94 l 23,-176 c 8,-64 28,-97 59,-98 l 735,706 c 11,11 33,17 66,17 42,0 63,-15 63,-46 V 965 c 0,-36 -10,-64 -30,-84 L 442,47 C 390,-6 338,-33 285,-33 Z"
+   id="path45" />
+  </g>
+  <g
+   id="bullet-char-template-9679"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M 813,0 C 632,0 489,54 383,161 276,268 223,411 223,592 c 0,181 53,324 160,431 106,107 249,161 430,161 179,0 323,-54 432,-161 108,-107 162,-251 162,-431 0,-180 -54,-324 -162,-431 C 1136,54 992,0 813,0 Z"
+   id="path46" />
+  </g>
+  <g
+   id="bullet-char-template-8226"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="m 346,457 c -73,0 -137,26 -191,78 -54,51 -81,114 -81,188 0,73 27,136 81,188 54,52 118,78 191,78 73,0 134,-26 185,-79 51,-51 77,-114 77,-187 0,-75 -25,-137 -76,-188 -50,-52 -112,-78 -186,-78 z"
+   id="path47" />
+  </g>
+  <g
+   id="bullet-char-template-8211"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="M -4,459 H 1135 V 606 H -4 Z"
+   id="path48" />
+  </g>
+  <g
+   id="bullet-char-template-61548"
+   transform="matrix(4.8828125e-4,0,0,-4.8828125e-4,0,0)">
+   <path
+   d="m 173,740 c 0,163 58,303 173,419 116,115 255,173 419,173 163,0 302,-58 418,-173 116,-116 174,-256 174,-419 0,-163 -58,-303 -174,-418 C 1067,206 928,148 765,148 601,148 462,206 346,322 231,437 173,577 173,740 Z"
+   id="path49" />
+  </g>
+ </defs>
+ <g
+   id="g49"
+   transform="translate(-10384,-13829)">
+  <g
+   id="id2"
+   class="Master_Slide">
+   <g
+   id="bg-id2"
+   class="Background" />
+   <g
+   id="bo-id2"
+   class="BackgroundObjects" />
+  </g>
+ </g>
+ <g
+   class="SlideGroup"
+   id="g195"
+   transform="translate(-10384,-13829)">
+  <g
+   id="g194">
+   <g
+   id="container-id1">
+    <g
+   id="id1"
+   class="Slide"
+   clip-path="url(#presentation_clip_path)">
+     <g
+   class="Page"
+   id="g193">
+      <g
+   class="Graphic"
+   id="g192">
+       <g
+   id="id3">
+        <rect
+   class="BoundingBox"
+   stroke="none"
+   fill="none"
+   x="10384"
+   y="13829"
+   width="821"
+   height="282"
+   id="rect49" />
+        <defs
+   id="defs50">
+         <clipPath
+   id="clip_path_1"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 10421,13866 h 745 v 207 h -745 z"
+   id="path50" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_1)"
+   id="g50" />
+        <defs
+   id="defs51">
+         <clipPath
+   id="clip_path_2"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 10421,13866 h 743 v 204 h -743 z"
+   id="path51" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_2)"
+   id="g53">
+         <path
+   fill="#d9d9d9"
+   stroke="none"
+   d="m 10434,14065 h 718 c 4,0 7,-3 7,-7 v 0 -179 c 0,-4 -3,-8 -7,-8 v 0 h -718 c -4,0 -8,4 -8,8 v 0 179 c 0,4 4,7 8,7 z"
+   id="path52" />
+         <path
+   fill="none"
+   stroke="#808080"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10434,14065 h 718 c 4,0 7,-3 7,-7 v -179 c 0,-4 -3,-8 -7,-8 v 0 h -718 c -4,0 -8,4 -8,8 v 0 179 c 0,4 4,7 8,7 z"
+   id="path53" />
+        </g>
+        <defs
+   id="defs54">
+         <clipPath
+   id="clip_path_3"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 11123,13961 h 30 v -75 h -30 c -21,0 -37,17 -37,38 0,20 16,37 37,37 z"
+   id="path54" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g54" />
+        <defs
+   id="defs55">
+         <clipPath
+   id="clip_path_4"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 11123,13961 v 0 c 0,0 0,0 0,0 -21,0 -37,-17 -37,-37 0,-21 16,-38 37,-38 h 30 v 75 z"
+   id="path55" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_4)"
+   id="g57">
+         <path
+   fill="#f2f2f2"
+   stroke="none"
+   d="m 11083,13990 v -93 h 72 v 93 z"
+   id="path56" />
+         <path
+   fill="#f5f5f5"
+   stroke="none"
+   d="m 11083,13950 v -93 h 72 v 93 z"
+   id="path57" />
+        </g>
+        <g
+   clip-path="url(#clip_path_3)"
+   id="g58" />
+        <g
+   clip-path="url(#clip_path_2)"
+   id="g59">
+         <path
+   fill="none"
+   stroke="#d9d9d9"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 11123,13961 h 30 v -75 h -30 c -21,0 -37,17 -37,38 0,20 16,37 37,37 z"
+   id="path58" />
+        </g>
+        <defs
+   id="defs59">
+         <clipPath
+   id="clip_path_5"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 11159,13924 c 0,-20 -16,-36 -37,-36 -20,0 -36,16 -36,36 0,20 16,37 36,37 21,0 37,-17 37,-37 z"
+   id="path59" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g60" />
+        <defs
+   id="defs60">
+         <clipPath
+   id="clip_path_6"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 11159,13924 v 0 c 0,20 -16,37 -37,37 -20,0 -36,-17 -36,-37 0,-20 16,-36 36,-36 21,0 37,16 37,36 z"
+   id="path60" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_6)"
+   id="g63">
+         <path
+   fill="#ffffff"
+   stroke="none"
+   d="m 11178,13924 c 0,10 -3,19 -8,28 -4,8 -11,15 -20,20 -8,5 -18,7 -28,7 -9,0 -19,-2 -27,-7 -9,-5 -16,-12 -21,-20 -4,-9 -7,-18 -7,-28 0,-9 3,-19 7,-27 5,-9 12,-16 21,-21 8,-4 18,-7 27,-7 10,0 20,3 28,7 9,5 16,12 20,21 5,8 8,18 8,27 z"
+   id="path61" />
+         <path
+   fill="#ffffff"
+   stroke="none"
+   d="m 11177,13924 c 0,10 -2,19 -7,28 -5,8 -12,15 -20,20 -9,4 -18,7 -28,7 -9,0 -19,-3 -27,-7 -8,-5 -15,-12 -20,-20 -5,-9 -7,-18 -7,-28 0,-9 2,-19 7,-27 5,-8 12,-15 20,-20 8,-5 18,-7 27,-7 10,0 19,2 28,7 8,5 15,12 20,20 5,8 7,18 7,27 z"
+   id="path62" />
+         <path
+   fill="#bfbfbf"
+   stroke="none"
+   d="m 11138,13924 c 0,3 0,6 -2,8 -1,3 -3,5 -6,6 -2,2 -5,2 -8,2 -2,0 -5,0 -8,-2 -2,-1 -4,-3 -6,-6 -1,-2 -2,-5 -2,-8 0,-3 1,-5 2,-8 2,-2 4,-4 6,-6 3,-1 6,-2 8,-2 3,0 6,1 8,2 3,2 5,4 6,6 2,3 2,5 2,8 z"
+   id="path63" />
+        </g>
+        <g
+   clip-path="url(#clip_path_5)"
+   id="g64" />
+        <g
+   clip-path="url(#clip_path_2)"
+   id="g65" />
+        <defs
+   id="defs65">
+         <clipPath
+   id="clip_path_7"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 11094,13919 53,20 c 3,-3 4,-7 4,-10 v 0 l -53,-20 c -2,3 -3,7 -4,10 z"
+   id="path65" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_7)"
+   id="g66" />
+        <defs
+   id="defs66">
+         <clipPath
+   id="clip_path_8"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 11094,13919 v 0 c 1,-3 2,-7 4,-10 l 53,20 c 0,3 -1,7 -4,10 z"
+   id="path66" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_8)"
+   id="g68">
+         <path
+   fill="#a6a6a6"
+   stroke="none"
+   d="m 11237,13942 c 0,9 -4,17 -12,25 -7,7 -18,13 -32,18 -13,4 -28,6 -43,6 -16,0 -31,-2 -44,-6 -13,-5 -25,-11 -32,-18 -8,-8 -12,-16 -12,-25 0,-9 4,-17 12,-25 7,-7 19,-13 32,-17 13,-5 28,-7 44,-7 15,0 30,2 43,7 14,4 25,10 32,17 8,8 12,16 12,25 z"
+   id="path67" />
+         <path
+   fill="#a6a6a6"
+   stroke="none"
+   d="m 11195,13942 c 0,5 -2,9 -6,13 -4,4 -10,7 -17,9 -7,2 -14,3 -22,3 -8,0 -16,-1 -23,-3 -7,-2 -13,-5 -17,-9 -3,-4 -6,-8 -6,-13 0,-4 3,-9 6,-13 4,-3 10,-7 17,-9 7,-2 15,-3 23,-3 8,0 15,1 22,3 7,2 13,6 17,9 4,4 6,9 6,13 z"
+   id="path68" />
+        </g>
+        <g
+   clip-path="url(#clip_path_7)"
+   id="g69" />
+        <g
+   clip-path="url(#clip_path_2)"
+   id="g70">
+         <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="1"
+   stroke-linejoin="round"
+   d="m 11094,13919 53,20 c 3,-3 4,-7 4,-10 v 0 l -53,-20 c -2,3 -3,7 -4,10 z"
+   id="path69" />
+        </g>
+        <defs
+   id="defs70">
+         <clipPath
+   id="clip_path_9"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 11127,13933 5,2 c 2,-5 4,-9 5,-14 v 0 l -5,-2 1,-4 c -4,-2 -9,-3 -13,-4 v 0 l -2,3 -4,-1 c -2,4 -4,9 -5,13 v 0 l 4,2 -1,4 c 4,3 9,4 13,5 v 0 z"
+   id="path70" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_9)"
+   id="g71" />
+        <defs
+   id="defs71">
+         <clipPath
+   id="clip_path_10"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 11127,13933 v 0 l -2,4 v 0 c -4,-1 -9,-2 -13,-5 l 1,-4 -4,-2 v 0 c 1,-4 3,-9 5,-13 l 4,1 2,-3 v 0 c 4,1 9,2 13,4 l -1,4 5,2 v 0 c -1,5 -3,9 -5,14 z"
+   id="path71" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_10)"
+   id="g73">
+         <path
+   fill="#a6a6a6"
+   stroke="none"
+   d="m 11186,13940 c 0,8 -2,16 -6,22 -4,7 -10,13 -17,17 -8,4 -16,6 -24,6 -8,0 -16,-2 -23,-6 -7,-4 -13,-10 -17,-17 -4,-6 -6,-14 -6,-22 0,-8 2,-16 6,-23 4,-6 10,-12 17,-16 7,-4 15,-6 23,-6 8,0 16,2 24,6 7,4 13,10 17,16 4,7 6,15 6,23 z"
+   id="path72" />
+         <path
+   fill="#a6a6a6"
+   stroke="none"
+   d="m 11162,13940 c 0,4 -1,8 -3,11 -2,3 -5,6 -8,8 -4,2 -8,3 -12,3 -4,0 -8,-1 -11,-3 -4,-2 -7,-5 -9,-8 -2,-3 -3,-7 -3,-11 0,-4 1,-8 3,-11 2,-4 5,-6 9,-8 3,-2 7,-3 11,-3 4,0 8,1 12,3 3,2 6,4 8,8 2,3 3,7 3,11 z"
+   id="path73" />
+        </g>
+        <g
+   clip-path="url(#clip_path_9)"
+   id="g74" />
+        <g
+   clip-path="url(#clip_path_2)"
+   id="g75">
+         <path
+   fill="none"
+   stroke="#808080"
+   stroke-width="1"
+   stroke-linejoin="round"
+   d="m 11127,13933 5,2 c 2,-5 4,-9 5,-14 v 0 l -5,-2 1,-4 c -4,-2 -9,-3 -13,-4 v 0 l -2,3 -4,-1 c -2,4 -4,9 -5,13 v 0 l 4,2 -1,4 c 4,3 9,4 13,5 v 0 z"
+   id="path74" />
+        </g>
+        <defs
+   id="defs75">
+         <clipPath
+   id="clip_path_11"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 10462,13886 h -29 v 75 h 29 c 21,0 38,-17 38,-37 0,-21 -17,-38 -38,-38 z"
+   id="path75" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_11)"
+   id="g76" />
+        <defs
+   id="defs76">
+         <clipPath
+   id="clip_path_12"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 10462,13886 v 0 c 0,0 0,0 0,0 21,0 38,17 38,38 0,20 -17,37 -38,37 h -29 v -75 z"
+   id="path76" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_12)"
+   id="g78">
+         <path
+   fill="#f2f2f2"
+   stroke="none"
+   d="m 10502,13857 v 93 h -72 v -93 z"
+   id="path77" />
+         <path
+   fill="#f5f5f5"
+   stroke="none"
+   d="m 10502,13897 v 93 h -72 v -93 z"
+   id="path78" />
+        </g>
+        <g
+   clip-path="url(#clip_path_11)"
+   id="g79" />
+        <g
+   clip-path="url(#clip_path_2)"
+   id="g80">
+         <path
+   fill="none"
+   stroke="#d9d9d9"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10462,13886 h -29 v 75 h 29 c 21,0 38,-17 38,-37 0,-21 -17,-38 -38,-38 z"
+   id="path79" />
+        </g>
+        <defs
+   id="defs80">
+         <clipPath
+   id="clip_path_13"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 10426,13923 c 0,20 17,36 37,36 20,0 37,-16 37,-36 0,-20 -17,-37 -37,-37 -20,0 -37,17 -37,37 z"
+   id="path80" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_13)"
+   id="g81" />
+        <defs
+   id="defs81">
+         <clipPath
+   id="clip_path_14"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 10426,13923 v 0 c 0,-20 17,-37 37,-37 20,0 37,17 37,37 0,20 -17,36 -37,36 -20,0 -37,-16 -37,-36 z"
+   id="path81" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_14)"
+   id="g84">
+         <path
+   fill="#ffffff"
+   stroke="none"
+   d="m 10519,13923 c 0,10 -3,19 -8,27 -5,9 -12,16 -20,21 -9,5 -18,7 -28,7 -10,0 -19,-2 -28,-7 -8,-5 -15,-12 -20,-21 -5,-8 -7,-17 -7,-27 0,-10 2,-19 7,-28 5,-8 12,-15 20,-20 9,-5 18,-7 28,-7 10,0 19,2 28,7 8,5 15,12 20,20 5,9 8,18 8,28 z"
+   id="path82" />
+         <path
+   fill="#ffffff"
+   stroke="none"
+   d="m 10518,13923 c 0,9 -3,19 -7,27 -5,9 -12,15 -20,20 -9,5 -18,8 -28,8 -10,0 -19,-3 -27,-8 -9,-5 -16,-11 -20,-20 -5,-8 -8,-18 -8,-27 0,-10 3,-19 8,-27 4,-9 11,-16 20,-20 8,-5 17,-8 27,-8 10,0 19,3 28,8 8,4 15,11 20,20 4,8 7,17 7,27 z"
+   id="path83" />
+         <path
+   fill="#bfbfbf"
+   stroke="none"
+   d="m 10479,13923 c 0,3 -1,5 -2,8 -1,2 -3,4 -6,6 -2,1 -5,2 -8,2 -3,0 -5,-1 -8,-2 -2,-2 -4,-4 -6,-6 -1,-3 -2,-5 -2,-8 0,-3 1,-6 2,-8 2,-3 4,-5 6,-6 3,-1 5,-2 8,-2 3,0 6,1 8,2 3,1 5,3 6,6 1,2 2,5 2,8 z"
+   id="path84" />
+        </g>
+        <g
+   clip-path="url(#clip_path_13)"
+   id="g85" />
+        <g
+   clip-path="url(#clip_path_2)"
+   id="g86" />
+        <defs
+   id="defs86">
+         <clipPath
+   id="clip_path_15"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 10491,13928 -53,-19 c -2,2 -3,6 -4,10 v 0 l 53,19 c 3,-3 4,-7 4,-10 z"
+   id="path86" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_15)"
+   id="g87" />
+        <defs
+   id="defs87">
+         <clipPath
+   id="clip_path_16"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 10491,13928 v 0 c 0,3 -1,7 -4,10 l -53,-19 c 1,-4 2,-8 4,-10 z"
+   id="path87" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_16)"
+   id="g89">
+         <path
+   fill="#a6a6a6"
+   stroke="none"
+   d="m 10523,13905 c 0,9 -4,17 -11,25 -8,7 -19,13 -32,18 -14,4 -29,6 -44,6 -15,0 -31,-2 -44,-6 -13,-5 -24,-11 -32,-18 -8,-8 -12,-16 -12,-25 0,-9 4,-17 12,-25 8,-7 19,-13 32,-18 13,-4 29,-6 44,-6 15,0 30,2 44,6 13,5 24,11 32,18 7,8 11,16 11,25 z"
+   id="path88" />
+         <path
+   fill="#a6a6a6"
+   stroke="none"
+   d="m 10481,13905 c 0,5 -2,9 -6,13 -4,4 -10,7 -17,9 -6,2 -14,3 -22,3 -8,0 -16,-1 -23,-3 -7,-2 -12,-5 -16,-9 -4,-4 -6,-8 -6,-13 0,-4 2,-9 6,-13 4,-3 9,-7 16,-9 7,-2 15,-3 23,-3 8,0 16,1 22,3 7,2 13,6 17,9 4,4 6,9 6,13 z"
+   id="path89" />
+        </g>
+        <g
+   clip-path="url(#clip_path_15)"
+   id="g90" />
+        <g
+   clip-path="url(#clip_path_2)"
+   id="g91">
+         <path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="1"
+   stroke-linejoin="round"
+   d="m 10491,13928 -53,-19 c -2,2 -3,6 -4,10 v 0 l 53,19 c 3,-3 4,-7 4,-10 z"
+   id="path90" />
+        </g>
+        <defs
+   id="defs91">
+         <clipPath
+   id="clip_path_17"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 10459,13914 -5,-1 c -2,4 -4,9 -5,13 v 0 l 5,2 -2,4 c 5,2 9,3 14,5 v 0 l 1,-4 5,1 c 2,-4 4,-8 5,-13 v 0 l -5,-2 2,-4 c -4,-2 -9,-4 -14,-5 v 0 z"
+   id="path91" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_17)"
+   id="g92" />
+        <defs
+   id="defs92">
+         <clipPath
+   id="clip_path_18"
+   clipPathUnits="userSpaceOnUse">
+          <path
+   d="m 10459,13914 v 0 l 1,-4 v 0 c 5,1 10,3 14,5 l -2,4 5,2 v 0 c -1,5 -3,9 -5,13 l -5,-1 -1,4 v 0 c -5,-2 -9,-3 -14,-5 l 2,-4 -5,-2 v 0 c 1,-4 3,-9 5,-13 z"
+   id="path92" />
+         </clipPath>
+        </defs>
+        <g
+   clip-path="url(#clip_path_18)"
+   id="g94">
+         <path
+   fill="#a6a6a6"
+   stroke="none"
+   d="m 10493,13907 c 0,8 -2,16 -6,23 -4,7 -10,12 -17,16 -7,4 -16,6 -24,6 -8,0 -16,-2 -23,-6 -7,-4 -13,-9 -17,-16 -4,-7 -6,-15 -6,-23 0,-8 2,-15 6,-22 4,-7 10,-13 17,-17 7,-4 15,-6 23,-6 8,0 17,2 24,6 7,4 13,10 17,17 4,7 6,14 6,22 z"
+   id="path93" />
+         <path
+   fill="#a6a6a6"
+   stroke="none"
+   d="m 10469,13907 c 0,4 -1,8 -3,11 -2,4 -5,7 -8,9 -4,2 -8,3 -12,3 -4,0 -8,-1 -11,-3 -4,-2 -7,-5 -9,-9 -2,-3 -3,-7 -3,-11 0,-4 1,-7 3,-11 2,-3 5,-6 9,-8 3,-2 7,-3 11,-3 4,0 8,1 12,3 3,2 6,5 8,8 2,4 3,7 3,11 z"
+   id="path94" />
+        </g>
+        <g
+   clip-path="url(#clip_path_17)"
+   id="g95" />
+        <g
+   clip-path="url(#clip_path_2)"
+   id="g190">
+         <path
+   fill="none"
+   stroke="#808080"
+   stroke-width="1"
+   stroke-linejoin="round"
+   d="m 10459,13914 -5,-1 c -2,4 -4,9 -5,13 v 0 l 5,2 -2,4 c 5,2 9,3 14,5 v 0 l 1,-4 5,1 c 2,-4 4,-8 5,-13 v 0 l -5,-2 2,-4 c -4,-2 -9,-4 -14,-5 v 0 z"
+   id="path95" />
+         <text
+   class="SVGTextShape"
+   id="text97"><tspan
+     class="TextParagraph"
+     id="tspan97"><tspan
+       class="TextPosition"
+       x="10434"
+       y="13986"
+       id="tspan96"><tspan
+         font-family="'ARIAL NARROW', sans-serif"
+         font-size="23px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan95">HWIC</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text100"><tspan
+     class="TextParagraph"
+     id="tspan100"><tspan
+       class="TextPosition"
+       x="10434"
+       y="14010"
+       id="tspan99"><tspan
+         font-family="'ARIAL NARROW', sans-serif"
+         font-size="23px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan98">ADSLI</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text103"><tspan
+     class="TextParagraph"
+     id="tspan103"><tspan
+       class="TextPosition"
+       x="10491"
+       y="14010"
+       id="tspan102"><tspan
+         font-family="'ARIAL NARROW', sans-serif"
+         font-size="23px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan101">-</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text106"><tspan
+     class="TextParagraph"
+     id="tspan106"><tspan
+       class="TextPosition"
+       x="10498"
+       y="14010"
+       id="tspan105"><tspan
+         font-family="'ARIAL NARROW', sans-serif"
+         font-size="23px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan104">B</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text109"><tspan
+     class="TextParagraph"
+     id="tspan109"><tspan
+       class="TextPosition"
+       x="10512"
+       y="14010"
+       id="tspan108"><tspan
+         font-family="'ARIAL NARROW', sans-serif"
+         font-size="23px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan107">/</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text112"><tspan
+     class="TextParagraph"
+     id="tspan112"><tspan
+       class="TextPosition"
+       x="10517"
+       y="14010"
+       id="tspan111"><tspan
+         font-family="'ARIAL NARROW', sans-serif"
+         font-size="23px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan110">ST</tspan></tspan></tspan></text>
+         <path
+   fill="#bfbfbf"
+   stroke="none"
+   d="m 10477,14055 h 9 v 12 h -9 z"
+   id="path112" />
+         <path
+   fill="#262626"
+   stroke="none"
+   d="m 10519,13908 h 20 c 6,1 10,-4 11,-10 0,-7 -3,-13 -8,-13 -1,0 -2,0 -3,0 v 0 h -20 c -5,-1 -10,4 -10,10 -1,7 3,12 8,13 1,0 1,0 2,0 z"
+   id="path113" />
+         <path
+   fill="none"
+   stroke="#d9d9d9"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10519,13908 h 20 c 6,1 10,-4 11,-10 0,-7 -3,-13 -8,-13 -1,0 -2,0 -3,0 v 0 h -20 c -5,-1 -10,4 -10,10 -1,7 3,12 8,13 1,0 1,0 2,0 z"
+   id="path114" />
+         <path
+   fill="#262626"
+   stroke="none"
+   d="m 10500,13930 v 20 c -1,5 4,10 10,11 7,0 13,-4 14,-9 0,0 0,-1 0,-2 v 0 -20 c 0,-5 -4,-10 -11,-10 -6,-1 -12,3 -13,8 0,0 0,1 0,2 z"
+   id="path115" />
+         <path
+   fill="none"
+   stroke="#d9d9d9"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10500,13930 v 20 c -1,5 4,10 10,11 7,0 13,-4 14,-9 0,0 0,-1 0,-2 v 0 -20 c 0,-5 -4,-10 -11,-10 -6,-1 -12,3 -13,8 0,0 0,1 0,2 z"
+   id="path116" />
+         <path
+   fill="#262626"
+   stroke="none"
+   d="m 11038,13908 h 21 c 5,1 10,-4 10,-10 1,-7 -3,-13 -8,-13 -1,0 -1,0 -2,0 v 0 h -21 c -5,-1 -9,4 -10,10 0,7 3,12 8,13 1,0 2,0 2,0 z"
+   id="path117" />
+         <path
+   fill="none"
+   stroke="#d9d9d9"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 11038,13908 h 21 c 5,1 10,-4 10,-10 1,-7 -3,-13 -8,-13 -1,0 -1,0 -2,0 v 0 h -21 c -5,-1 -9,4 -10,10 0,7 3,12 8,13 1,0 2,0 2,0 z"
+   id="path118" />
+         <path
+   fill="#404040"
+   stroke="none"
+   d="m 10762,13892 h -118 c -2,0 -3,1 -3,3 v 0 107 c 0,2 1,3 3,3 h 118 c 2,0 3,-1 3,-3 v -107 c 0,-2 -1,-3 -3,-3 z"
+   id="path119" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="1"
+   stroke-linejoin="round"
+   d="m 10762,13892 h -118 c -2,0 -3,1 -3,3 v 107 c 0,2 1,3 3,3 h 118 c 2,0 3,-1 3,-3 v -107 c 0,-2 -1,-3 -3,-3 z"
+   id="path120" />
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 10673,13911 h -15 v 20 h -3 v 22 h 3 v 20 h 16 v 14 h 10 v 14 h 38 v -14 h 9 v -14 h 16 v -20 h 3 v -22 h -3 v -20 h -15 v -11 h -59 z"
+   id="path121" />
+         <path
+   fill="none"
+   stroke="#666666"
+   stroke-width="1"
+   stroke-linejoin="round"
+   d="m 10673,13911 h -15 v 20 h -3 v 22 h 3 v 20 h 16 v 14 h 10 v 14 h 38 v -14 h 9 v -14 h 16 v -20 h 3 v -22 h -3 v -20 h -15 v -11 h -59 z"
+   id="path122" />
+         <path
+   fill="#ffff99"
+   stroke="none"
+   d="m 10680,13911 h 2 v -6 h -2 z m 8,0 h 3 v -6 h -3 z m 9,0 h 3 v -6 h -3 z m 9,0 h 2 v -6 h -2 z m 8,0 h 3 v -6 h -3 z m 9,0 h 3 v -6 h -3 z"
+   id="path123" />
+         <path
+   fill="#f2f2f2"
+   stroke="none"
+   d="m 10656,14049 h 94 c 7,0 13,-6 13,-13 v 0 c 0,-7 -6,-13 -13,-13 v 0 h -94 c -7,0 -13,6 -13,13 0,7 6,13 13,13 z"
+   id="path124" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10656,14049 h 94 c 7,0 13,-6 13,-13 0,-7 -6,-13 -13,-13 v 0 h -94 c -7,0 -13,6 -13,13 0,7 6,13 13,13 z"
+   id="path125" />
+         <text
+   class="SVGTextShape"
+   id="text127"><tspan
+     class="TextParagraph"
+     id="tspan127"><tspan
+       class="TextPosition"
+       x="10675"
+       y="14042"
+       id="tspan126"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan125">ADSL</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text130"><tspan
+     class="TextParagraph"
+     id="tspan130"><tspan
+       class="TextPosition"
+       x="11041"
+       y="13991"
+       id="tspan129"><tspan
+         font-family="'ARIAL NARROW', sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan128">SEE MANUAL</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text133"><tspan
+     class="TextParagraph"
+     id="tspan133"><tspan
+       class="TextPosition"
+       x="11061"
+       y="14011"
+       id="tspan132"><tspan
+         font-family="'ARIAL NARROW', sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan131">BEFORE</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text136"><tspan
+     class="TextParagraph"
+     id="tspan136"><tspan
+       class="TextPosition"
+       x="11035"
+       y="14031"
+       id="tspan135"><tspan
+         font-family="'ARIAL NARROW', sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan134">INSTALLATION</tspan></tspan></tspan></text>
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 10552,14053 h 9 v 12 h -9 z"
+   id="path136" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10552,14065 h 9 v -12 h -9 z"
+   id="path137" />
+         <path
+   fill="#000000"
+   stroke="none"
+   d="m 11039,14053 h 10 v 12 h -10 z"
+   id="path138" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 11039,14065 h 10 v -12 h -10 z"
+   id="path139" />
+         <path
+   fill="#215361"
+   stroke="none"
+   d="m 10980,13910 h -23 c -5,0 -10,4 -11,9 -1,6 3,11 9,11 1,1 1,1 2,0 v 0 h 23 c 5,1 10,-3 11,-8 0,-6 -4,-11 -9,-12 -1,0 -2,0 -2,0 z"
+   id="path140" />
+         <path
+   fill="none"
+   stroke="#d9d9d9"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10980,13910 h -23 c -5,0 -10,4 -11,9 -1,6 3,11 9,11 1,1 1,1 2,0 v 0 h 23 c 5,1 10,-3 11,-8 0,-6 -4,-11 -9,-12 -1,0 -2,0 -2,0 z"
+   id="path141" />
+         <text
+   class="SVGTextShape"
+   id="text143"><tspan
+     class="TextParagraph"
+     id="tspan143"><tspan
+       class="TextPosition"
+       x="10997"
+       y="13929"
+       id="tspan142"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan141">B</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text146"><tspan
+     class="TextParagraph"
+     id="tspan146"><tspan
+       class="TextPosition"
+       x="11011"
+       y="13929"
+       id="tspan145"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan144">1</tspan></tspan></tspan></text>
+         <path
+   fill="#215361"
+   stroke="none"
+   d="m 10980,13937 h -23 c -5,0 -10,4 -11,9 -1,6 3,11 9,11 1,0 1,0 2,0 v 0 h 23 c 5,1 10,-3 11,-9 0,-5 -4,-10 -9,-11 -1,0 -2,0 -2,0 z"
+   id="path146" />
+         <path
+   fill="none"
+   stroke="#d9d9d9"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10980,13937 h -23 c -5,0 -10,4 -11,9 -1,6 3,11 9,11 1,0 1,0 2,0 v 0 h 23 c 5,1 10,-3 11,-9 0,-5 -4,-10 -9,-11 -1,0 -2,0 -2,0 z"
+   id="path147" />
+         <text
+   class="SVGTextShape"
+   id="text149"><tspan
+     class="TextParagraph"
+     id="tspan149"><tspan
+       class="TextPosition"
+       x="10997"
+       y="13955"
+       id="tspan148"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan147">B</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text152"><tspan
+     class="TextParagraph"
+     id="tspan152"><tspan
+       class="TextPosition"
+       x="11011"
+       y="13955"
+       id="tspan151"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan150">2</tspan></tspan></tspan></text>
+         <path
+   fill="#215361"
+   stroke="none"
+   d="m 10980,13965 h -23 c -5,0 -10,4 -11,9 -1,6 3,11 9,11 1,0 1,0 2,0 v 0 h 23 c 5,1 10,-3 11,-9 0,-5 -4,-10 -9,-11 -1,0 -2,0 -2,0 z"
+   id="path152" />
+         <path
+   fill="none"
+   stroke="#d9d9d9"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10980,13965 h -23 c -5,0 -10,4 -11,9 -1,6 3,11 9,11 1,0 1,0 2,0 v 0 h 23 c 5,1 10,-3 11,-9 0,-5 -4,-10 -9,-11 -1,0 -2,0 -2,0 z"
+   id="path153" />
+         <text
+   class="SVGTextShape"
+   id="text155"><tspan
+     class="TextParagraph"
+     id="tspan155"><tspan
+       class="TextPosition"
+       x="10997"
+       y="13983"
+       id="tspan154"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan153">B</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text158"><tspan
+     class="TextParagraph"
+     id="tspan158"><tspan
+       class="TextPosition"
+       x="11011"
+       y="13983"
+       id="tspan157"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan156">3</tspan></tspan></tspan></text>
+         <path
+   fill="#959500"
+   stroke="none"
+   d="m 10591,13910 h 22 c 6,0 11,4 11,9 1,6 -3,11 -8,11 -1,1 -2,1 -3,0 v 0 h -22 c -6,1 -11,-3 -11,-8 -1,-6 3,-11 9,-12 0,0 1,0 2,0 z"
+   id="path158" />
+         <path
+   fill="none"
+   stroke="#d9d9d9"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10591,13910 h 22 c 6,0 11,4 11,9 1,6 -3,11 -8,11 -1,1 -2,1 -3,0 v 0 h -22 c -6,1 -11,-3 -11,-8 -1,-6 3,-11 9,-12 0,0 1,0 2,0 z"
+   id="path159" />
+         <text
+   class="SVGTextShape"
+   id="text161"><tspan
+     class="TextParagraph"
+     id="tspan161"><tspan
+       class="TextPosition"
+       x="10548"
+       y="13929"
+       id="tspan160"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan159">LP</tspan></tspan></tspan></text>
+         <path
+   fill="#215361"
+   stroke="none"
+   d="m 10591,13937 h 22 c 6,0 11,4 11,9 1,6 -3,11 -8,11 -1,0 -2,0 -3,0 v 0 h -22 c -6,1 -11,-3 -11,-9 -1,-5 3,-10 9,-11 0,0 1,0 2,0 z"
+   id="path161" />
+         <path
+   fill="none"
+   stroke="#d9d9d9"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10591,13937 h 22 c 6,0 11,4 11,9 1,6 -3,11 -8,11 -1,0 -2,0 -3,0 v 0 h -22 c -6,1 -11,-3 -11,-9 -1,-5 3,-10 9,-11 0,0 1,0 2,0 z"
+   id="path162" />
+         <text
+   class="SVGTextShape"
+   id="text164"><tspan
+     class="TextParagraph"
+     id="tspan164"><tspan
+       class="TextPosition"
+       x="10546"
+       y="13955"
+       id="tspan163"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan162">CD</tspan></tspan></tspan></text>
+         <path
+   fill="#215361"
+   stroke="none"
+   d="m 10591,13965 h 22 c 6,0 11,4 11,9 1,6 -3,11 -8,11 -1,0 -2,0 -3,0 v 0 h -22 c -6,1 -11,-3 -11,-9 -1,-5 3,-10 9,-11 0,0 1,0 2,0 z"
+   id="path164" />
+         <path
+   fill="none"
+   stroke="#d9d9d9"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10591,13965 h 22 c 6,0 11,4 11,9 1,6 -3,11 -8,11 -1,0 -2,0 -3,0 v 0 h -22 c -6,1 -11,-3 -11,-9 -1,-5 3,-10 9,-11 0,0 1,0 2,0 z"
+   id="path165" />
+         <text
+   class="SVGTextShape"
+   id="text167"><tspan
+     class="TextParagraph"
+     id="tspan167"><tspan
+       class="TextPosition"
+       x="10546"
+       y="13983"
+       id="tspan166"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan165">OK</tspan></tspan></tspan></text>
+         <path
+   fill="#c5bcb4"
+   stroke="none"
+   d="m 10785,13891 h 144 v 113 h -144 z"
+   id="path167" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="7"
+   stroke-linejoin="round"
+   d="m 10785,14004 h 144 v -113 h -144 z"
+   id="path168" />
+         <path
+   fill="#333333"
+   stroke="none"
+   d="m 10801,13976 h 26 v 16 h 10 v 13 h 40 v -13 h 10 v -16 h 27 v -64 h -113 z"
+   id="path169" />
+         <path
+   fill="none"
+   stroke="#666666"
+   stroke-width="1"
+   stroke-linejoin="round"
+   d="m 10801,13976 h 26 v 16 h 10 v 13 h 40 v -13 h 10 v -16 h 27 v -64 h -113"
+   id="path170" />
+         <path
+   fill="#666666"
+   stroke="none"
+   d="m 10801,13977 v -1 0 h -1 v 0 0 0 1 0 0 z"
+   id="path171" />
+         <path
+   fill="#666666"
+   stroke="none"
+   d="m 10801,13912 v -1 0 h -1 v 0 0 1 0 0 0 z"
+   id="path172" />
+         <path
+   fill="#c89b48"
+   stroke="none"
+   d="m 10818,13912 h 5 v 9 h -5 z"
+   id="path173" />
+         <path
+   fill="#c89b48"
+   stroke="none"
+   d="m 10828,13912 h 5 v 9 h -5 z"
+   id="path174" />
+         <path
+   fill="#c89b48"
+   stroke="none"
+   d="m 10839,13912 h 5 v 9 h -5 z"
+   id="path175" />
+         <path
+   fill="#c89b48"
+   stroke="none"
+   d="m 10849,13912 h 5 v 9 h -5 z"
+   id="path176" />
+         <path
+   fill="#c89b48"
+   stroke="none"
+   d="m 10860,13912 h 5 v 9 h -5 z"
+   id="path177" />
+         <path
+   fill="#c89b48"
+   stroke="none"
+   d="m 10870,13912 h 5 v 9 h -5 z"
+   id="path178" />
+         <path
+   fill="#c89b48"
+   stroke="none"
+   d="m 10881,13912 h 5 v 9 h -5 z"
+   id="path179" />
+         <path
+   fill="#c89b48"
+   stroke="none"
+   d="m 10891,13912 h 5 v 9 h -5 z"
+   id="path180" />
+         <path
+   fill="#f28226"
+   stroke="none"
+   d="m 10794,14049 h 124 c 7,0 13,-6 13,-13 v 0 c 0,-7 -6,-13 -13,-13 v 0 h -124 c -7,0 -13,6 -13,13 0,7 6,13 13,13 z"
+   id="path181" />
+         <path
+   fill="none"
+   stroke="#000000"
+   stroke-width="2"
+   stroke-linejoin="round"
+   d="m 10794,14049 h 124 c 7,0 13,-6 13,-13 0,-7 -6,-13 -13,-13 v 0 h -124 c -7,0 -13,6 -13,13 0,7 6,13 13,13 z"
+   id="path182" />
+         <text
+   class="SVGTextShape"
+   id="text184"><tspan
+     class="TextParagraph"
+     id="tspan184"><tspan
+       class="TextPosition"
+       x="10794"
+       y="14042"
+       id="tspan183"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan182">ISDN BRI S</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text187"><tspan
+     class="TextParagraph"
+     id="tspan187"><tspan
+       class="TextPosition"
+       x="10901"
+       y="14042"
+       id="tspan186"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan185">/</tspan></tspan></tspan></text>
+         <text
+   class="SVGTextShape"
+   id="text190"><tspan
+     class="TextParagraph"
+     id="tspan190"><tspan
+       class="TextPosition"
+       x="10906"
+       y="14042"
+       id="tspan189"><tspan
+         font-family="ARIAL, sans-serif"
+         font-size="20px"
+         font-weight="700"
+         fill="#000000"
+         stroke="none"
+         style="white-space:pre"
+         id="tspan188">T</tspan></tspan></tspan></text>
+        </g>
+        <g
+   clip-path="url(#clip_path_1)"
+   id="g191" />
+       </g>
+      </g>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

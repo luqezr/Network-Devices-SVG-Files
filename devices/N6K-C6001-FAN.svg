@@ -3,7 +3,7 @@
    version="1.2"
    width="12.5604mm"
    height="6.0804mm"
-   viewBox="-139.5600 -67.5600 1256.0400 608.0400"
+   viewBox="-46.5200 -22.5200 1256.0400 608.0400"
    preserveAspectRatio="xMidYMid"
    fill-rule="evenodd"
    stroke-width="28.222"
@@ -244,7 +244,7 @@
  </defs>
  <g
    id="g24"
-   transform="translate(-10303.04,-13733.04)">
+   transform="translate(-10210,-13688)">
   <g
    id="id2"
    class="Master_Slide">
@@ -259,7 +259,7 @@
  <g
    class="SlideGroup"
    id="g489"
-   transform="translate(-10303.04,-13733.04)">
+   transform="translate(-10210,-13688)">
   <g
    id="g488">
    <g
@@ -1951,7 +1951,7 @@
          <path
    fill="#007aa8"
    stroke="none"
-   d="m 10313,14088 h -1 v 0 0 1 0 0 0 h 1 z"
+   d="m 10313,14088 h -1 v 0 0 1 0 0 0 h 1 v -1 z"
    id="path273" />
         </g>
         <defs
@@ -2012,12 +2012,12 @@
          <path
    fill="#007aa8"
    stroke="none"
-   d="m 10450,13856 h 1 v 0 0 -1 0 0 0 h -1 z"
+   d="m 10450,13856 h 1 v 0 0 -1 0 0 0 h -1 v 1 z"
    id="path280" />
          <path
    fill="#007aa8"
    stroke="none"
-   d="m 10451,13902 h -1 v 0 0 1 h 1 v 0 0 0 z"
+   d="m 10451,13902 h -1 v 0 0 1 h 1 v 0 0 0 -1 z"
    id="path281" />
          <path
    fill="none"
@@ -2029,12 +2029,12 @@
          <path
    fill="#007aa8"
    stroke="none"
-   d="m 10495,13902 h -1 v 0 0 1 h 1 v 0 0 0 z"
+   d="m 10495,13902 h -1 v 0 0 1 h 1 v 0 0 0 -1 z"
    id="path283" />
          <path
    fill="#007aa8"
    stroke="none"
-   d="m 10451,13856 v -1 0 0 h -1 v 1 0 0 0 z"
+   d="m 10451,13856 v -1 0 0 h -1 v 1 0 0 0 h 1 z"
    id="path284" />
         </g>
         <defs
@@ -2795,7 +2795,7 @@
          <path
    fill="#007aa8"
    stroke="none"
-   d="m 11270,14088 h -1 v 0 0 1 0 h 1 v 0 0 z"
+   d="m 11270,14088 h -1 v 0 0 1 0 h 1 v 0 0 -1 z"
    id="path393" />
         </g>
         <defs
@@ -2856,12 +2856,12 @@
          <path
    fill="#007aa8"
    stroke="none"
-   d="m 11131,13856 h 1 v 0 0 l -1,-1 v 0 0 0 0 z"
+   d="m 11131,13856 h 1 v 0 0 l -1,-1 v 0 0 0 0 1 z"
    id="path400" />
          <path
    fill="#007aa8"
    stroke="none"
-   d="m 11132,13902 h -1 v 0 0 1 0 0 0 0 z"
+   d="m 11132,13902 h -1 v 0 0 1 0 0 0 0 l 1,-1 z"
    id="path401" />
          <path
    fill="none"
@@ -2873,12 +2873,12 @@
          <path
    fill="#007aa8"
    stroke="none"
-   d="m 11091,13902 h -1 v 0 0 1 0 0 0 0 z"
+   d="m 11091,13902 h -1 v 0 0 1 0 0 0 0 l 1,-1 z"
    id="path403" />
          <path
    fill="#007aa8"
    stroke="none"
-   d="m 11131,13855 v 1 0 0 0 h 1 v 0 0 z"
+   d="m 11131,13855 v 1 0 0 0 h 1 v 0 0 l -1,-1 v 0 z"
    id="path404" />
         </g>
         <defs
